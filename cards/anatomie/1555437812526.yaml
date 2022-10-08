@@ -6,8 +6,8 @@ noteid: '1555437812526'
 Title: 'Cornea'
 
 OccludedImage: '<img src="paste-e8f2f1ced2a9ecfa6cee74eb809734db1f417e13.jpg">'
-Clinical: '<img src="paste-3cd971dd4f9d37e3f4246aeacfc116904b1ddc6a.jpg"><br>Corneal transplant surgery—also known as keratoplasty—is a common, minimally invasive procedure usually performed under local anesthesia. It is undertaken to restore vision in patients with defective or distorted corneas. Because the cornea is virtually avascular, risk of tissue rejection is extremely low. Tissues for transplant surgery are usually taken from donated corneas obtained shortly after death of the donor.'
-Comment: '<img src="paste-cb754c6392ec292ae3a62063a332dc5acfa565fa.jpg"><br>Comment: The cornea, which occupies one-fifth of the ocular surface, is about 0.5 mm thick and 11.5 mm in diameter. It is made of dense fibrous connective tissue with a layer of epithelium on both sides. Its anterior surface is stratified squamous nonkeratinized epithelium, which continuously replicates in response to wear and tear. Deep to the epithelium is Bowman’s membrane—a prominent basement membrane that binds the epithelium to underlying connective tissue. The thick, central region—the substantia propria— contains 60 to 70 layers of type | collagen fibers arranged at right angles in successive layers. The posterior surface is covered by simple cuboidal epithelium.'
+Clinical: '<b>Corneal transplant surgery</b>—also known as <b>keratoplasty</b>—is a common, minimally invasive procedure usually performed under <b>local anesthesia</b>. It is undertaken to restore vision in patients with defective or distorted corneas. Because the cornea is virtually avascular, risk of tissue rejection is extremely low. Tissues for transplant surgery are usually taken from donated corneas obtained shortly after death of the donor.'
+Comment: '<b>Comment:</b> The cornea, which occupies one-fifth of the ocular surface, is about 0.5 mm thick and 11.5 mm in diameter. It is made of dense fibrous connective tissue with a layer of epithelium on both sides. Its anterior surface is stratified squamous nonkeratinized epithelium, which continuously replicates in response to wear and tear. Deep to the epithelium is Bowman’s membrane—a prominent basement membrane that binds the epithelium to underlying connective tissue. The thick, central region—the substantia propria— contains 60 to 70 layers of type | collagen fibers arranged at right angles in successive layers. The posterior surface is covered by simple cuboidal epithelium.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::19_Eye_and_Adnexa::Cornea'
 
