@@ -6,8 +6,8 @@ noteid: '1555439912866'
 Title: 'Middle Ear and Auditory Tube'
 
 OccludedImage: '<img src="paste-beaebb1242dccc78b67efad1815966418bafc2ef.jpg">'
-Clinical: '<img src="paste-e65183795f4c9b915e5ac99247a3aef6fec2c262.jpg"><br>Otitis media—an acute bacterial or viral infection of the middle ear—is common in young children. It is often caused by migration of pathogens from the nasopharynx to the middle ear via the auditory tube. Usual treatment, if needed, is medication for pain and antibiotic  therapy.'
-Comment: '<img src="paste-81f65b411f42dbc6aa92b0f17b5377ceb9258c66.jpg"><br>Comment: The middle ear (tympanic cavity) is an air space in temporal bone lined by mucous membrane. Its lateral wall is the tympanic membrane, and its medial wall contains the vestibular (oval) and cochlear (round) windows. Three auditory ossicles—malleus, incus, and stapes—are connected by typical synovial joints and extend across the tympanic cavity. Two skeletal muscles—tensor tympani and stapedius—insert into the ossicles, and contract in response to sounds. The auditory (Eustachian) tube connects the tympanic cavity with the nasopharynx. Most of its medial wall contains elastic cartilage. Its lumen is lined by pseudostratified ciliated columnar epithelium with goblet cells. Associated with the epithelium are mixed seromucous glands.'
+Clinical: '<b>Otitis media</b> - an acute <b>bacterial</b> or <b>viral infection</b> of the middle ear—is common in young children. It is often caused by migration of pathogens from the nasopharynx to the middle ear via the auditory tube. Usual treatment, if needed, is medication for pain and antibiotic therapy.'
+Comment: '<b>Comment:</b> The middle ear (tympanic cavity) is an air space in temporal bone lined by mucous membrane. Its lateral wall is the tympanic membrane, and its medial wall contains the vestibular (oval) and cochlear (round) windows. Three auditory ossicles—malleus, incus, and stapes—are connected by typical synovial joints and extend across the tympanic cavity. Two skeletal muscles—tensor tympani and stapedius—insert into the ossicles, and contract in response to sounds. The auditory (Eustachian) tube connects the tympanic cavity with the nasopharynx. Most of its medial wall contains elastic cartilage. Its lumen is lined by pseudostratified ciliated columnar epithelium with goblet cells. Associated with the epithelium are mixed seromucous glands.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::20_Special_Senses::Middle_Ear_and_Auditory_Tube'
 
