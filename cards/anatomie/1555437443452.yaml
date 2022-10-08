@@ -6,8 +6,8 @@ noteid: '1555437443452'
 Title: 'Placenta'
 
 OccludedImage: '<img src="paste-1387fe3ba62505ba85207b7f8c607f721a616d24.jpg">'
-Clinical: '<img src="paste-80802c4d1c14f86b60c23c23df7d648afa406953.jpg"><br>Examination of the placenta in the delivery room can yield important information to the physician about the health of mother and infant. Many common and rare lesions may be linked to abnormal fetal development or perinatal morbidity. Although placental tumors are rare, choriocarcinoma—a malignant neoplasm of syncytotrophoblasts and cytotrophoblasts—may invade the uterine wall and metastasize to other sites.'
-Comment: '<img src="paste-a449fdc1cf2e43d1bf49b116d07204691083d477.jpg"><br>Comment: The disc-shaped placenta—a transitory organ—has both fetal and maternal parts. It weighs 400 to 600 g at birth and has 15 to 20 lobules, or cotyledons. The fundamental units of the organ are chorionic villi. Formed from the fetal chorion, they are lined by 2 types of epithelial cells (cytotrophoblasts and syncytotrophoblasts). The connective tissue core of each villus has fetal capillaries and macrophages (Hofbauer cells). Maternal blood circulates in intervillous spaces. Fetal and maternal blood are close to each other but follow independent courses and do not mix, being separated by an efficient placental barrier.'
+Clinical: 'Examination of the placenta in the delivery room can yield important information to the physician about the health of mother and infant. Many common and rare lesions may be linked to abnormal fetal development or <b>perinatal morbidity</b>. Although <b>placental tumors</b> are rare, <b>choriocarcinoma</b>—a <b>malignant neoplasm</b> of syncytotrophoblasts and cytotrophoblasts—may invade the uterine wall and <b>metastasize</b> to other sites.'
+Comment: '<b>Comment:</b> The disc-shaped placenta—a transitory organ—has both fetal and maternal parts. It weighs 400 to 600 g at birth and has 15 to 20 lobules, or cotyledons. The fundamental units of the organ are chorionic villi. Formed from the fetal chorion, they are lined by 2 types of epithelial cells (cytotrophoblasts and syncytotrophoblasts). The connective tissue core of each villus has fetal capillaries and macrophages (Hofbauer cells). Maternal blood circulates in intervillous spaces. Fetal and maternal blood are close to each other but follow independent courses and do not mix, being separated by an efficient placental barrier.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::18_Female_Reproductive::Placenta'
 
