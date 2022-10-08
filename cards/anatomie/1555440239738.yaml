@@ -6,8 +6,8 @@ noteid: '1555440239738'
 Title: 'Olfactory Mucosa'
 
 OccludedImage: '<img src="paste-79128f868a1275a1c99a67a14554446d1a6d12bd.jpg">'
-Clinical: '<img src="paste-5fc2f1d8f6e8918cbeeb907b7f22b634891b6317.jpg"><br>Viral infection of the olfactory mucosa related to the common cold may lead to anosmia (loss of smell). It may be partial or complete  and may become permanent in chronic infection of the mucous membrane.'
-Comment: '<img src="paste-a1532d6bafeb8e14af01c7cfb6f6f00e76a2ae2f.jpg"><br>Comment: Olfactory mucosa is a mucous membrane that is specialized for smell. It is in the roof of the nasal cavity, superior concha, and nasal septum. It is lined by olfactory epithelium, a very thick pseudostratified epithelium that consists of 3 cell types: olfactory cells, sustentacular (supporting) cells, and basal cells. Olfactory cells, slender bipolar neurons spanning the width of the epithelium, are receptor cells that bind odoriferous substances and convert them to nerve impulses. The lamina propria, deep to the epithelium, is loose, highly vascular connective tissue containing many thin-walled blood vessels, unmyelinated nerve fascicles, and branched tubulo-alveolar glands of Bowman. The nerve fascicles converge to end in the olfactory bulb, from which neurons then form the olfactory nerve (cranial nerve 1).'
+Clinical: '<b>Viral infection</b> of the olfactory mucosa related to the <b>common cold</b> may lead to <b>anosmia</b> (loss of smell). It may be partial or complete  and may become permanent in chronic infection of the mucous membrane.'
+Comment: '<b>Comment:</b> Olfactory mucosa is a mucous membrane that is specialized for smell. It is in the roof of the nasal cavity, superior concha, and nasal septum. It is lined by olfactory epithelium, a very thick pseudostratified epithelium that consists of 3 cell types: olfactory cells, sustentacular (supporting) cells, and basal cells. Olfactory cells, slender bipolar neurons spanning the width of the epithelium, are receptor cells that bind odoriferous substances and convert them to nerve impulses. The lamina propria, deep to the epithelium, is loose, highly vascular connective tissue containing many thin-walled blood vessels, unmyelinated nerve fascicles, and branched tubulo-alveolar glands of Bowman. The nerve fascicles converge to end in the olfactory bulb, from which neurons then form the olfactory nerve (cranial nerve 1).'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::20_Special_Senses::Olfactory_Mucosa'
 
