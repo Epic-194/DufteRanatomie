@@ -6,8 +6,8 @@ noteid: '1555435545620'
 Title: 'Urethra'
 
 OccludedImage: '<img src="paste-83dcfb064bd1cb9e2954e0a2eaf61c527be4eead.jpg">'
-Clinical: '<img src="paste-bf5319d9ec9182fd63d003ec5515ac64e9de8138.jpg"><br>Urethritis—an inflammation of the urethra—affects men and women equally. It may be caused by bacterial or viral infection, and is often associated with sexually transmitted disease (STD). Gonococcal urethritis usually has a shorter incubation period than the nongonococcal form of the disease.'
-Comment: '<img src="paste-3c02e12179d9f7f879dfaaf773bb975e995ecbe8.jpg"><br>Comment: The female urethra is about 4 cm long and 8 mm wide. It has 3 concentric layers: mucosa, muscularis externa, and adventitia. Its crescent-shaped lumen is lined by transitional epithelium that gradually changes to stratified columnar, and then stratified squamous non-keratinized epithelium at its opening into the vestibule. Invaginations of epithelium form mucus-secreting urethral glands, and the lamina propria has an extensive venous plexus. The male urethra, 15 to 20 cm long, is divided into 3 segments: prostatic, membranous, and spongy. Like that in the female urethra, the epithelium of the male urethra shows similar regional changes.'
+Clinical: '<b>Urethritis</b>—an inflammation of the urethra—affects men and women equally. It may be caused by <b>bacterial</b> or <b>viral infection</b>, and is often associated with <b>sexually transmitted disease (STD)</b>. <b>Gonococcal urethritis</b> usually has a shorter incubation period than the <b>nongonococcal</b> form of the disease.'
+Comment: '<b>Comment:</b> The female urethra is about 4 cm long and 8 mm wide. It has 3 concentric layers: mucosa, muscularis externa, and adventitia. Its crescent-shaped lumen is lined by transitional epithelium that gradually changes to stratified columnar, and then stratified squamous non-keratinized epithelium at its opening into the vestibule. Invaginations of epithelium form mucus-secreting urethral glands, and the lamina propria has an extensive venous plexus. The male urethra, 15 to 20 cm long, is divided into 3 segments: prostatic, membranous, and spongy. Like that in the female urethra, the epithelium of the male urethra shows similar regional changes.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::16_Urinary::Urethra'
 
