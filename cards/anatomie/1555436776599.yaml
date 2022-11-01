@@ -6,8 +6,8 @@ noteid: '1555436776599'
 Title: 'Female Reproductive System'
 
 OccludedImage: '<img src="paste-7a190ae4fa9ec3d24f2623c559c776ac1ec38759.jpg">'
-Clinical: 'A common cause of <b>female infertility</b> is <b>pelvic inflammatory disease (PID)</b>—an inflammation of the female pelvis caused by spread of vaginal infection into the uterus, oviducts, and ovaries. PID is often a serious complication of <b>bacterial infection</b> associated with <b>sexually transmitted diseases</b>. Infections with <b>chlamydia</b> and <b>gonorrhea</b> are the 2 most common causes.'
-Comment: '<b>Comment:</b> The female reproductive system comprises the paired ovaries and the genital tract, including the oviducts, uterus, and vagina. External genitalia consist of labia majora, labia minora, and clitoris. In addition, mammary glands and placenta are functionally associated with the genital organs. The ovaries produce female germ cells and steroid hormones. Like the ovaries, the uterus undergoes a regular sequence of changes known as the menstrual cycle. The vagina connects the internal genitalia with the exterior. Embryonic development of the female reproductive system, similar to that in the male, closely parallels that of the urinary system.'
+Clinical: '<img src="paste-bf2860e723199255297d7cbeab7a33296b92511b.jpg"><br>A common cause of female infertility is pelvic inflammatory disease (PID)—an inflammation of the female pelvis caused by spread of vaginal infection into the uterus, oviducts, and ovaries. PID is often a serious complication of bacterial infection associated with sexually transmitted diseases. Infections with chlamydia and gonorrhea are the 2 most common causes.'
+Comment: '<img src="paste-6a984a5a50852054b9aa0c23029a3fca572f098d.jpg"><br>Comment: The female reproductive system comprises the paired ovaries and the genital tract, including the oviducts, uterus, and vagina. External genitalia consist of labia majora, labia minora, and clitoris. In addition, mammary glands and placenta are functionally associated with the genital organs. The ovaries produce female germ cells and steroid hormones. Like the ovaries, the uterus undergoes a regular sequence of changes known as the menstrual cycle. The vagina connects the internal genitalia with the exterior. Embryonic development of the female reproductive system, similar to that in the male, closely parallels that of the urinary system.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::18_Female_Reproductive::Female_Reproductive_System'
 

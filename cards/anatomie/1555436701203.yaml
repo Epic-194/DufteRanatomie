@@ -6,8 +6,8 @@ noteid: '1555436701203'
 Title: 'Urethra and Penis'
 
 OccludedImage: '<img src="paste-eeeffd984fca5ccaa825da86fee41b067d0cba49.jpg">'
-Clinical: '<b>Circumcision</b>—surgical removal of the foreskin—is typically performed on newborns under local anesthesia. Although potential medical benefits remain controversial, it may reduce the incidence of <b>penile carcinoma</b>, <b>urinary tract infections</b>, and <b>sexually transmitted diseases</b>, including acquisition and transfer of the <b>human immunodeficiency virus (HIV)</b>.'
-Comment: '<b>Comment:</b> The male urethra conducts urine from the urinary bladder to the body’s exterior as well as semen during ejaculation. It comprises 3 parts, with mucosa and epithelium varying regionally. The prostatic urethra is lined mostly by transitional epithelium (urothelium) and contains the openings of the paired ejaculatory ducts and ducts from the prostate. The short membranous urethra is lined by stratified columnar epithelium, whereas the mucous membrane of the longer penile (or spongy) urethra changes to stratified squamous epithelium. Erectile tissue is contained within 2 dorsal corpora cavernosa and a single ventral corpus spongiosum. Numerous cavernous vascular sinuses separated by trabeculae and lined by endothelium comprise the erectile tissue.'
+Clinical: '<img src="paste-4484fe2bd75cfb079d4a8b6ae2d41fd6c3c92ddc.jpg"><br>Circumcision—surgical removal of the foreskin—is typically performed on newborns under local anesthesia. Although potential medical benefits remain controversial, it may reduce the incidence of penile carcinoma, urinary tract infections, and sexually transmitted diseases, including acquisition and transfer of the human immunodeficiency virus (HIV).'
+Comment: '<img src="paste-0f6e0af266dff0b267b0bd9b1291d1003f1dc243.jpg"><br>Comment: The male urethra conducts urine from the urinary bladder to the body’s exterior as well as semen during ejaculation. It comprises 3 parts, with mucosa and epithelium varying regionally. The prostatic urethra is lined mostly by transitional epithelium (urothelium) and contains the openings of the paired ejaculatory ducts and ducts from the prostate. The short membranous urethra is lined by stratified columnar epithelium, whereas the mucous membrane of the longer penile (or spongy) urethra changes to stratified squamous epithelium. Erectile tissue is contained within 2 dorsal corpora cavernosa and a single ventral corpus spongiosum. Numerous cavernous vascular sinuses separated by trabeculae and lined by endothelium comprise the erectile tissue.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::17_Male_Reproductive::Urethra_and_Penis'
 

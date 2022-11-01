@@ -6,8 +6,8 @@ noteid: '1555440312003'
 Title: 'Taste Buds'
 
 OccludedImage: '<img src="paste-96d0edb3b7c9014623e3a485c0c71144cdb45092.jpg">'
-Clinical: 'A reduced sense of taste, known as <b>hypogeusia</b>, may adversely affect quality of life. <b>Oral infections</b> (such as <b>gingivitis</b>), oral surgical procedures, and radiation of the head and neck can interfere with  taste. Taste deficits in the elderly have been implicated in weight loss, impaired immunity, and malnutrition.'
-Comment: '<b>Comment:</b> Taste buds are widely distributed in fungiform, foliate, and circumvallate papillae of the stratified squamous epithelium on the dorsal aspect of the tongue. They are also found on the soft palate, pharynx, and epiglottis. Taste buds are barrel-shaped clusters of pale-staining cells lying vertically in the stratified squamous epithelium. Each taste bud has 50 to 75 cells, whose arrangement resembles segments of a citrus fruit. Three types of cells occupy each taste bud. Taste (gustatory) cells are slender, spindle-shaped, chemoreceptive cells with apical microvilli. These cells are mixed with tall supporting cells that resemble staves of a barrel, and small, rounded basal cells resting on a basement membrane. Afferent nerve fibers contact the bases of taste cells via synapses.'
+Clinical: '<img src="paste-c1e129eca3d541eead83d575e50822f9040dd044.jpg"><br>A reduced sense of taste, known as hypogeusia, may adversely affect quality of life. Oral infections (such as gingivitis), oral surgical procedures, and radiation of the head and neck can interfere with  taste. Taste deficits in the elderly have been implicated in weight loss, impaired immunity, and malnutrition.'
+Comment: '<img src="paste-4f72785b39257c25f72143c409ef23c43d66f7f2.jpg"><br>Comment: Taste buds are widely distributed in fungiform, foliate, and circumvallate papillae of the stratified squamous epithelium on the dorsal aspect of the tongue. They are also found on the soft palate, pharynx, and epiglottis. Taste buds are barrel-shaped clusters of pale-staining cells lying vertically in the stratified squamous epithelium. Each taste bud has 50 to 75 cells, whose arrangement resembles segments of a citrus fruit. Three types of cells occupy each taste bud. Taste (gustatory) cells are slender, spindle-shaped, chemoreceptive cells with apical microvilli. These cells are mixed with tall supporting cells that resemble staves of a barrel, and small, rounded basal cells resting on a basement membrane. Afferent nerve fibers contact the bases of taste cells via synapses.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::20_Special_Senses::Taste_Buds'
 

@@ -6,8 +6,8 @@ noteid: '1555439754044'
 Title: 'Ear'
 
 OccludedImage: '<img src="paste-ed64bb4a31b19181d2af6e76fd5f675775da2496.jpg">'
-Clinical: 'The most serious <b>ear disorders</b> are those of the inner ear that lead to <b>deafness</b>. <b>Congenital deafness</b> may be acquired by intrauterine infection with neurotrophic viruses, such as German measles (rubella). In <b>fetal rubella syndrome</b>, rubella virus causes serious damage to the organ of Corti in early embryonic development.'
-Comment: '<b>Comment:</b> The ear has 3 parts. The external ear, consisting of auricle and external acoustic meatus, conducts sound waves to the tympanic membrane. The middle ear (tympanic cavity) is an air-filled cavity in the petrous temporal bone that transforms sound waves into mechanical vibrations. It contains 3 auditory ossicles and communicates with the nasopharynx via the auditory (Eustachian) tube. The inner ear (labyrinth) has special receptors for hearing and maintenance of equilibrium. The bony labyrinth contains perilymph. Internal to it is the membranous labyrinth, lined by epithelium, which houses endolymph. The saccule, utricle, and semicircular canals comprise the vestibular apparatus; the organ of Corti in the cochlea responds to sounds.'
+Clinical: '<img src="paste-8b17a69227f417722a71ac65aff9849703e09323.jpg"><br>The most serious ear disorders are those of the inner ear that lead to deafness. Congenital deafness may be acquired by intrauterine infection with neurotrophic viruses, such as German measles (rubella). In fetal rubella syndrome, rubella virus causes serious damage to the organ of Corti in early embryonic development.'
+Comment: '<img src="paste-adcce405651b50a452455b0930e6b4e4aea41e6f.jpg"><br>Comment: The ear has 3 parts. The external ear, consisting of auricle and external acoustic meatus, conducts sound waves to the tympanic membrane. The middle ear (tympanic cavity) is an air-filled cavity in the petrous temporal bone that transforms sound waves into mechanical vibrations. It contains 3 auditory ossicles and communicates with the nasopharynx via the auditory (Eustachian) tube. The inner ear (labyrinth) has special receptors for hearing and maintenance of equilibrium. The bony labyrinth contains perilymph. Internal to it is the membranous labyrinth, lined by epithelium, which houses endolymph. The saccule, utricle, and semicircular canals comprise the vestibular apparatus; the organ of Corti in the cochlea responds to sounds.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::20_Special_Senses::Ear'
 

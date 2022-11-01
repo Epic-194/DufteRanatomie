@@ -6,8 +6,8 @@ noteid: '1555437941908'
 Title: 'Lens'
 
 OccludedImage: '<img src="paste-ac7983935f798ff135f97b704b70f4921cb5120d.jpg">'
-Clinical: '<b>Cataracts</b>—lens opacities often associated with advanced age—may interfere with focusing of light on the retina. Cataracts may be surgically removed and replaced by prosthetic lenses. <b>Presbyopia</b>— a progressive refractive disorder—is an age-related loss of accommodative ability due to reduced lens flexibility. Corrective lenses and refractive surgery are treatment options.'
-Comment: '<b>Comment:</b> The lens—between the iris and vitreous body—is 10 mm in diameter and 3.5 mm to 5 mm wide. It is held in fixed position by zonular fibers and the vitreous body. It is an elastic, biconvex structure derived embryonically from surface ectoderm of the lens placode. Tensile forces within it cause its roughly globular shape. A simple cuboidal epithelium and its thick basement membrane, the lens capsule, covers the anterior half of the lens. Lens fibers, the principal cells of the lens, are elongate columnar epithelial cells devoid of viable nuclei and containing distinctive proteins called crystallins. Like the cornea, the lens is avascular and depends on diffusion of aqueous humor for nutrition.'
+Clinical: '<img src="paste-8679ec75c1c239440829df11c94d32a571062f8b.jpg"><br>Cataracts—lens opacities often associated with advanced age—may interfere with focusing of light on the retina. Cataracts may be surgically removed and replaced by prosthetic lenses. Presbyopia— a progressive refractive disorder—is an age-related loss of accommodative ability due to reduced lens flexibility. Corrective lenses and refractive surgery are treatment options.'
+Comment: '<img src="paste-ac7064cbe023e38d7c9e7714c223c64acc599ec0.jpg"><br>Comment: The lens—between the iris and vitreous body—is 10 mm in diameter and 3.5 mm to 5 mm wide. It is held in fixed position by zonular fibers and the vitreous body. It is an elastic, biconvex structure derived embryonically from surface ectoderm of the lens placode. Tensile forces within it cause its roughly globular shape. A simple cuboidal epithelium and its thick basement membrane, the lens capsule, covers the anterior half of the lens. Lens fibers, the principal cells of the lens, are elongate columnar epithelial cells devoid of viable nuclei and containing distinctive proteins called crystallins. Like the cornea, the lens is avascular and depends on diffusion of aqueous humor for nutrition.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::19_Eye_and_Adnexa::Lens'
 

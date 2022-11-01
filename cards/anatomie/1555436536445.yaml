@@ -6,8 +6,8 @@ noteid: '1555436536445'
 Title: 'Prostatic Epithelium'
 
 OccludedImage: '<img src="paste-ad8008cdd7ad53084b978a80558938080b8b9d4c.jpg">'
-Clinical: 'One of the most common <b>malignant tumors</b> in men is <b>adenocarcinoma</b> of the prostate in which the serine protease— prostate specific antigen (PSA)—may be elevated. Treatment depends on stage of disease at diagnosis. Prostatectomy, orchidectomy, radiation therapy, hormone treatment with estrogen derivatives, and use of pituitary releasing-hormone agonists are options; however, metastatic disease is incurable.'
-Comment: '<b>Comment:</b> The pseudostratified epithelium of secretory alveoli in the prostate consists of small basal cells and tall columnar cells (whose major role is synthesis and secretion). A supranuclear Golgi complex, multiple cisternae of rough endoplasmic reticulum, and many apical secretory vesicles are in the cytoplasm of columnar cells. The basal cells are most likely reserve stem cells for proliferation of the epithelium. A thin basement membrane separates epithelium from underlying richly vascularized lamina propria.'
+Clinical: '<img src="paste-2aa8168c07f98b16f3865fa0afcec510eff411b7.jpg"><br>One of the most common malignant tumors in men is adenocarcinoma of the prostate in which the serine protease— prostate specific antigen (PSA)—may be elevated. Treatment depends on stage of disease at diagnosis. Prostatectomy, orchidectomy, radiation therapy, hormone treatment with estrogen derivatives, and use of pituitary releasing-hormone agonists are options; however, metastatic disease is incurable.'
+Comment: '<img src="paste-30b332158abcd3f4a86303ea8106422f01b4c3ff.jpg"><br>Comment: The pseudostratified epithelium of secretory alveoli in the prostate consists of small basal cells and tall columnar cells (whose major role is synthesis and secretion). A supranuclear Golgi complex, multiple cisternae of rough endoplasmic reticulum, and many apical secretory vesicles are in the cytoplasm of columnar cells. The basal cells are most likely reserve stem cells for proliferation of the epithelium. A thin basement membrane separates epithelium from underlying richly vascularized lamina propria.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::17_Male_Reproductive::Prostatic_Epithelium'
 

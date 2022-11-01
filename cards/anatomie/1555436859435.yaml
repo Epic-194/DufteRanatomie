@@ -6,8 +6,8 @@ noteid: '1555436859435'
 Title: 'Ovaries'
 
 OccludedImage: '<img src="paste-3896c6e4c6771fb39703363d39e3d9842c0fb1f0.jpg">'
-Clinical: '<b>Epithelial ovarian carcinomas</b> represent nearly 90% of <b>ovarian malignancies</b> and commonly arise from ovarian surface epithelium. Predisposing hereditary conditions are risk factors for 10% of women with this <b>gynecologic cancer</b>. The risk of ovarian cancer increases with age, so it occurs mostly in postmenopausal women. Ovarian carcinoma has a tendency to <b>metastasize</b> to the surrounding peritoneal cavity.'
-Comment: '<b>Comment:</b> The ovaries are solid, almond-shaped glands, about 3.cm long and 2 cm wide in the adult. Their size and histologic appearance differ during the menstrual cycle, pregnancy, and postmenopausal period. Each ovary is covered by ovarian surface epithelium—a reflection of visceral peritoneum. An outer cortex harbors oocyte-containing ovarian follicles of various sizes and at different stages of maturation and degeneration. An inner medulla consists of loose connective tissue with many blood vessels, nerves, and lymphatics. Like testes, ovaries have both exocrine (cytogenic) and endocrine functions; they produce the hormones estrogen and progesterone.'
+Clinical: '<img src="paste-aad67a1159f82d097d0793ec6d2b96b2a68d049d.jpg"><br>Epithelial ovarian carcinomas represent nearly 90% of ovarian malignancies and commonly arise from ovarian surface epithelium. Predisposing hereditary conditions are risk factors for 10% of women with this gynecologic cancer. The risk of ovarian cancer increases with age, so it occurs mostly in postmenopausal women. Ovarian carcinoma has a tendency to metastasize to the surrounding peritoneal cavity.'
+Comment: '<img src="paste-ae14b0af82cdc90fbd6c3a0a621ab3e243802695.jpg"><br>Comment: The ovaries are solid, almond-shaped glands, about 3.cm long and 2 cm wide in the adult. Their size and histologic appearance differ during the menstrual cycle, pregnancy, and postmenopausal period. Each ovary is covered by ovarian surface epithelium—a reflection of visceral peritoneum. An outer cortex harbors oocyte-containing ovarian follicles of various sizes and at different stages of maturation and degeneration. An inner medulla consists of loose connective tissue with many blood vessels, nerves, and lymphatics. Like testes, ovaries have both exocrine (cytogenic) and endocrine functions; they produce the hormones estrogen and progesterone.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::18_Female_Reproductive::Ovaries'
 

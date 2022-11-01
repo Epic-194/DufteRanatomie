@@ -6,8 +6,8 @@ noteid: '1555438108156'
 Title: 'Canal of Schlemm and Aqueous Humor'
 
 OccludedImage: '<img src="paste-1cb50d5c50fbb0f57ff2a7e2beb43cf46140ab9a.jpg">'
-Clinical: 'Obstruction of the canal of Schlemm may lead to <b>glaucoma</b>, a common condition involving an abnormal increase in intraocular pressure. The 2 main forms are <b>primary open-angle</b> and <b>closed-angle glaucoma</b>, both of which may lead to <b>blindness</b> if intraocular pressure remains increased above 25 mm Hg (normal levels are 10mm Hg to 20 mm Hg).'
-Comment: '<b>Comment:</b> Aqueous humor is a clear fluid produced by processes of the ciliary body that is secreted into the posterior chamber. It circulates around the pupillary aperture, enters the anterior chamber, and reaches the iridocorneal angle (acute angle of the anterior chamber). The aqueous outflow apparatus consists of the trabecular meshwork of loose connective tissue and labyrinthine spaces of Fontana. The canal of Schlemm is anterior and lateral to the spaces and drains aqueous humor that filtered through the spaces. The canal is a thin-walled channel, about 400 μm in diameter that is lined by endothelium and a discontinuous basement membrane.'
+Clinical: '<img src="paste-21ed00c7f6b8cd6f8ec2d6419b81976c7d4aa268.jpg"><br>Obstruction of the canal of Schlemm may lead to glaucoma, a common condition involving an abnormal increase in intraocular pressure. The 2 main forms are primary open-angle and closed- angle glaucoma, both of which may lead to blindness if intraocular pressure remains increased above 25 mm Hg (normal levels are 10mm Hg to 20 mm Hg).'
+Comment: '<img src="paste-a9311e482eadf3e4112a727c95ac231324eb9f89.jpg"><br>Comment: Aqueous humor is a clear fluid produced by processes of the ciliary body that is secreted into the posterior chamber. It circulates around the pupillary aperture, enters the anterior chamber, and reaches the iridocorneal angle (acute angle of the anterior chamber). The aqueous outflow apparatus consists of the trabecular meshwork of loose connective tissue and labyrinthine spaces of Fontana. The canal of Schlemm is anterior and lateral to the spaces and drains aqueous humor that filtered through the spaces. The canal is a thin-walled channel, about 400 um in diameter that is lined by endothelium and a discontinuous basement membrane.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::19_Eye_and_Adnexa::Canal_of_Schlemm_and_Aqueous_Humor'
 

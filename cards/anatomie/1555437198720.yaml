@@ -6,8 +6,8 @@ noteid: '1555437198720'
 Title: 'Endometrium'
 
 OccludedImage: '<img src="paste-3af3b070b7f6501a2387627c1249e38ebd21011e.jpg">'
-Clinical: '<b>Endometriosis</b> is a common <b>gynecologic disease</b> affecting females between puberty and menopause in which endometrial tissue appears at unusual locations in the abdomen and pelvis. Symptoms include <b>pelvic pain</b> and <b>premenstrual bleeding</b>.'
-Comment: '<b>Comment:</b> The uterine endometrium consists of 2 functional layers with blood supply from different sources. The thicker, more superficial functionalis layer is most affected by menstruation; it is periodically shed and then regenerated. The deeper, basal layer of the endometrium is not affected by hormonal variations or sloughed off during menstruation. Histologic changes during the follicular (or estrogenic) phase of the menstrual cycle are marked by replication and rapid growth of the lining epithelium, glands, and underlying stroma. During the secretory (progestational or luteal) phase, which begins just after ovulation, the endometrium reaches a thickness of 4mm or more, and epithelial cells of the mucosal surface and glands show intense secretory activity. Secretions are thick and mucoid with high glycogen content.'
+Clinical: '<img src="paste-fc9aa95b361289f1df51272147a2b2e5cd77a1ee.jpg"><br>Endometriosis is a common gynecologic disease affecting females between puberty and menopause in which endometrial tissue appears at unusual locations in the abdomen and pelvis. Symptoms include pelvic pain and premenstrual bleeding.'
+Comment: '<img src="paste-105e9702fd07b84a6d85acfe5056f5425b32793d.jpg"><br>Comment: The uterine endometrium consists of 2 functional layers with blood supply from different sources. The thicker, more superficial functionalis layer is most affected by menstruation; it is periodically shed and then regenerated. The deeper, basal layer of the endometrium is not affected by hormonal variations or sloughed off during menstruation. Histologic changes during the follicular (or estrogenic) phase of the menstrual cycle are marked by replication and rapid growth of the lining epithelium, glands, and underlying stroma. During the secretory (progestational or luteal) phase, which begins just after ovulation, the endometrium reaches a thickness of 4mm or more, and epithelial cells of the mucosal surface and glands show intense secretory activity. Secretions are thick and mucoid with high glycogen content.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::18_Female_Reproductive::Endometrium'
 

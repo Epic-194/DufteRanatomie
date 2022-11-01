@@ -6,8 +6,8 @@ noteid: '1555437060600'
 Title: 'Uterine (Fallopian) Tubes'
 
 OccludedImage: '<img src="paste-cd94b5700bb0f36755dfc8f7dd972744cc9274fb.jpg">'
-Clinical: '<b>Ectopic pregnancy</b> occurs when a fertilized ovum implants in tissue outside the uterus. A common such site is the uterine tube. Most cases are due to conditions that obstruct or slow passage of a fertilized ovum down the tube, such as <b>salpingitis</b>—an <b>inflammation</b> of the uterine tube commonly caused by <b>infection</b>.'
-Comment: '<b>Comment:</b> The uterine (Fallopian) tubes, or oviducts, extend from the ovary to the uterus. They are 12 cm to 15cm long and develop from unfused midregions of Mullerian ducts in the embryo. Each uterine tube—suspended by the mesosalpinx—consists of 4 regions: a fimbriated infundibulum, ampulla, isthmus, and intramural part. The mucosa is thrown into numerous folds that greatly increase surface area. Two types of cells—peg cells and ciliated cells—constitute the lining epithelium, and tubal ciliary movement is directed toward the uterus. Marked histologic changes occur in the epithelium according to the menstrual cycle. The uterine tube also has a highly cellular lamina propria, 2 indistinct layers of smooth muscle, and a rich vascular and nerve supply.'
+Clinical: '<img src="paste-5cebc348ac467735860b236ab9c19c828049e079.jpg"><br>Ectopic pregnancy occurs when a fertilized ovum implants in tissue outside the uterus. A common such site is the uterine tube. Most cases are due to conditions that obstruct or slow passage of a fertilized ovum down the tube, such as salpingitis—an inflammation of the uterine tube commonly caused by infection.'
+Comment: '<img src="paste-ad0f9e3703ba2cff6e751b6c018f4282d8494aed.jpg"><br>Comment: The uterine (Fallopian) tubes, or oviducts, extend from the ovary to the uterus. They are 12 cm to 15cm long and develop from unfused midregions of Mullerian ducts in the embryo. Each uterine tube—suspended by the mesosalpinx—consists of 4 regions: a fimbriated infundibulum, ampulla, isthmus, and intramural part. The mucosa is thrown into numerous folds that greatly increase surface area. Two types of cells—peg cells and ciliated cells—constitute the lining epithelium, and tubal ciliary movement is directed toward the uterus. Marked histologic changes occur in the epithelium according to the menstrual cycle. The uterine tube also has a highly cellular lamina propria, 2 indistinct layers of smooth muscle, and a rich vascular and nerve supply.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::18_Female_Reproductive::Uterine_Tubes'
 

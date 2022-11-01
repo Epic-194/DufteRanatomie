@@ -6,8 +6,8 @@ noteid: '1555440625758'
 Title: 'Muscle Spindles'
 
 OccludedImage: '<img src="paste-3e410508bde0722bf832ec3963a13f3bacf77acf.jpg">'
-Clinical: 'The <b>tendon tap (knee jerk) reflex test</b>, performed as part of the <b>neurologic examination</b>, helps detect the integrity of the myotatic stretch reflex mediated by muscle spindles within a muscle. Using a reflex hammer, the test helps detect abnormalities in the central and  peripheral nervous systems, and diagnose <b>spinal cord injury</b> and neuromuscular diseases.'
-Comment: '<b>Comment:</b> Muscle spindles are encapsulated sensory receptors found in almost every skeletal muscle in the body. They parallel surrounding extrafusal fibers that make up the bulk of the muscle. As part of the myotatic stretch reflex, they monitor changes in length of the whole muscle. Each muscle spindle has a multilayered outer capsule surrounding a periaxial space, which contains 2 types of intrafusal muscle fibers - nuclear bag and nuclear chain fibers. Polar regions of intrafusal fibers are innervated by motor nerve endings, whereas equatorial regions of the intrafusal fibers are innervated by sensory nerve terminals. When the muscle is stretched, the sensory terminals trigger nerve impulses, which are conveyed to the spinal cord.'
+Clinical: '<img src="paste-d1ae11e06232d416c399dddc9d84bd25b9fac992.jpg"><br>The tendon tap (knee jerk) reflex test, performed as part of the neurologic examination, helps detect the integrity of the myotatic stretch reflex mediated by muscle spindles within a muscle. Using a reflex hammer, the test helps detect abnormalities in the central and  peripheral nervous systems, and diagnose spinal cord injury and neuromuscular diseases.'
+Comment: '<img src="paste-5a1d58cc4b2b7300db9b6b417d47720fc82277a7.jpg"><br>Comment: Muscle spindles are encapsulated sensory receptors found in almost every skeletal muscle in the body. They parallel surrounding extrafusal fibers that make up the bulk of the muscle. As part of the myotatic stretch reflex, they monitor changes in length of the whole muscle. Each muscle spindle has a multilayered outer capsule surrounding a periaxial space, which contains 2 types of intrafusal muscle fibers—nuclear bag and nuclear chain fibers. Polar regions of intrafusal fibers are innervated by motor nerve endings, whereas equatorial regions of the intrafusal fibers are innervated by sensory nerve terminals. When the muscle is stretched, the sensory terminals trigger nerve impulses, which are conveyed to the spinal cord.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::20_Special_Senses::Muscle_Spindles'
 

@@ -6,8 +6,8 @@ noteid: '1555436985901'
 Title: 'Corpus Luteum'
 
 OccludedImage: '<img src="paste-ceb328095b9c140b53d1c3de852723735ea36014.jpg">'
-Clinical: '<b>Ruptured corpus luteum</b>—a condition characterized by excessive <b>hemorrhage</b> at the rupture site of the ovarian follicle—is often accompanied by severe <b>abdominal pain</b>, known as <b>acute abdomen</b>. Although its cause is unknown, it usually resolves spontaneously. It is potentially life threatening, however, if bleeding persists. Risk factors include abdominal trauma and anticoagulation therapy.'
-Comment: '<b>Comment:</b> After the mature follicle has erupted from the ovary at ovulation, a temporary glandular structure—the corpus luteum— forms in the follicular remnant. The follicle collapses, becomes infolded, and the antrum is replaced by scar tissue. Luteinizing hormone from the pituitary causes granulosa and theca interna cells to undergo histologic and functional changes. Both cells have features of steroid-secreting cells, and their cytoplasm accumulates many lipid droplets. Progesterone produced by granulosa lutein cells prepares the endometrium for implantation, and estrogen is produced by theca lutein cells. If pregnancy does not occur, the corpus luteum gradually involutes to become a corpus albicans.'
+Clinical: '<img src="paste-1b8517c19a3e26943890292c52174207ea07a4cc.jpg"><br>Ruptured corpus luteum—a condition characterized by excessive hemorrhage at the rupture site of the ovarian follicle—is often accompanied by severe abdominal pain, known as acute abdomen. Although its cause is unknown, it usually resolves spontaneously. It is potentially life threatening, however, if bleeding persists. Risk factors include abdominal trauma and anticoagulation therapy.'
+Comment: '<img src="paste-139ada5145e8d99ada930f482b729d1d58cbb557.jpg"><br>Comment: After the mature follicle has erupted from the ovary at ovulation, a temporary glandular structure—the corpus luteum— forms in the follicular remnant. The follicle collapses, becomes infolded, and the antrum is replaced by scar tissue. Luteinizing hormone from the pituitary causes granulosa and theca interna cells to undergo histologic and functional changes. Both cells have features of steroid-secreting cells, and their cytoplasm accumulates many lipid droplets. Progesterone produced by granulosa lutein cells prepares the endometrium for implantation, and estrogen is produced by theca lutein cells. If pregnancy does not occur, the corpus luteum gradually involutes to become a corpus albicans.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::18_Female_Reproductive::Corpus_Luteum'
 

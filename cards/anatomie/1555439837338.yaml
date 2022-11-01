@@ -6,8 +6,8 @@ noteid: '1555439837338'
 Title: 'External Acoustic Meatus'
 
 OccludedImage: '<img src="paste-1951f3b794e894a008042edb2e553da679794055.jpg">'
-Clinical: '<b>Acute otitis externa</b>, commonly called <i>swimmer’s ear</i>, is inflammation, often with infection, of the external ear. The usual cause is infection with bacteria and less often fungus. If the canal becomes obstructed, conductive deafness may be a severe complication. Steroids and antibiotics are the usual treatment.'
-Comment: '<b>Comment:</b> The <b>external acoustic meatus</b> is an S-shaped tubular cul-de-sac about 2.5 cm long. The outer two thirds has elastic cartilage in its wall, which is continuous with that of the auricle. An inner osseous part is a tunnel through temporal bone. Both parts  are lined by thin skin composed of stratified squamous keratinized epithelium. Associated with the epithelium are sebaceous glands and ceruminous glands, both of which contribute to yellowish earwax (cerumen). The tympanic membrane (or eardrum), about 0.1 mm thick, separates the external auditory meatus from the tympanic cavity and consists of a pars flaccida and pars tensa. The eardrum is an attenuated layer of connective tissue covered externally by thin skin and internally by mucous membrane.'
+Clinical: '<img src="paste-b50ce6ae6894fc8939fae91d723a6da5adb45df7.jpg"><br>Acute otitis externa, commonly called swimmer’s ear, is inflammation, often with infection, of the external ear. The usual cause is infection with bacteria and less often fungus. If the canal becomes obstructed, conductive deafness may be a severe complication. Steroids and antibiotics are the usual treatment.'
+Comment: '<img src="paste-824f4cfd57fcfd5da5c14f81eb70b6c6c61a2172.jpg"><br>Comment: The external acoustic meatus is an S-shaped tubular cul-de-sac about 2.5 cm long. The outer two thirds has elastic cartilage in its wall, which is continuous with that of the auricle. An inner osseous part is a tunnel through temporal bone. Both parts  are lined by thin skin composed of stratified squamous keratinized epithelium. Associated with the epithelium are sebaceous glands and ceruminous glands, both of which contribute to yellowish earwax (cerumen). The tympanic membrane (or eardrum), about 0.1 mm thick, separates the external auditory meatus from the tympanic cavity and consists of a pars flaccida and pars tensa. The eardrum is an attenuated layer of connective tissue covered externally by thin skin and internally by mucous membrane.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::20_Special_Senses::External_Acoustic_Meatus'
 

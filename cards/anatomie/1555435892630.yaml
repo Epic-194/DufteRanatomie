@@ -6,8 +6,8 @@ noteid: '1555435892630'
 Title: 'Seminiferous Epithelium'
 
 OccludedImage: '<img src="paste-2df50258e277698a9c4ce2857bff656f0084223e.jpg">'
-Clinical: '<b>Spermatocytic seminoma</b>—an uncommon <i>testicular</i> neoplasm derived from germ cells but clinically and pathologically distinct from other more classic testicular tumors—usually affects men older than 60 years of age and is rarely malignant. Immunocytochemistry of biopsy samples shows positive staining for markers specific for  cells undergoing meiosis in addition to genomic abnormalities on chromosome 9, suggesting that primary spermatocytes are cells of origin of this tumor.'
-Comment: '<b>Comment:</b> Sertoli cells play a critical role in support and maturation of spermatozoa. After puberty, they constitute about 10% of cells in the seminiferous epithelium. These columnar cells, with borders that are hard to distinguish, extend from the basement membrane to the lumen of the seminiferous tubule. Their apices bear cryptlike recesses that hold spermatids until release of newly formed spermatozoa into the lumen. Each cell has a jagged, euchromatic nucleus with a prominent nucleolus. The cytoplasm contains microtubules and intermediate filaments forming a prominent cytoskeleton, as well as long, slender mitochondria, a conspicuous smooth endoplasmic reticulum, large numbers of lipid droplets, and lipofuscin-laden lysosomes.'
+Clinical: '<img src="paste-b326382ee13977f07931d6a0a508043aa294cf1d.jpg"><br>Spermatocytic seminoma—an uncommon testicular neoplasm derived from germ cells but clinically and pathologically distinct from other more classic testicular tumors—usually affects men older than 60 years of age and is rarely malignant. Immunocytochemistry of biopsy samples shows positive staining for markers specific for  cells undergoing meiosis in addition to genomic abnormalities on chromosome 9, suggesting that primary spermatocytes are cells of origin of this tumor.'
+Comment: '<img src="paste-d877beadce02bf34c5886d4bab4c232ca8e65338.jpg"><br>Comment: Sertoli cells play a critical role in support and maturation of spermatozoa. After puberty, they constitute about 10% of cells in the seminiferous epithelium. These columnar cells, with borders that are hard to distinguish, extend from the basement membrane to the lumen of the seminiferous tubule. Their apices bear cryptlike recesses that hold spermatids until release of newly formed spermatozoa into the lumen. Each cell has a jagged, euchromatic nucleus with a prominent nucleolus. The cytoplasm contains microtubules and intermediate filaments forming a prominent cytoskeleton, as well as long, slender mitochondria, a conspicuous smooth endoplasmic reticulum, large numbers of lipid droplets, and lipofuscin-laden lysosomes.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::17_Male_Reproductive::Seminiferous_Epithelium'
 

@@ -6,8 +6,8 @@ noteid: '1555437348845'
 Title: 'External Genitalia and Vagina'
 
 OccludedImage: '<img src="paste-da4204032cfc46a55221f595dbf26a7311e2bd6e.jpg">'
-Clinical: 'The most common <b>vaginal infection</b> in women of reproductive age is <b>bacterial vaginosis (BA)</b>, which leads to painful inflammation and gray or white vaginal discharge. Although etiology is not known, it is probably caused by overgrowth of facultative and anaerobic bacteria in the vaginal lumen. Serious complications during pregnancy are  <b>miscarriage, early (preterm) delivery</b>, and <b>pelvic infection</b> after childbirth.'
-Comment: '<b>Comment:</b> The external genitalia, or vulva, are the labia majora and minora, clitoris, and vestibular glands. The vagina and urethra open into the vestibule. The vagina is a distensible fibromuscular tube that connects the cervix of the uterus to the body exterior. The vaginal lumen is lined by stratified squamous nonkeratinized epithelium, 150 to 200 μm thick, which lacks glands. Surface cells of the epithelium appear washed out due to variable amounts of glycogen. As in many other parts of the female reproductive tract, this epithelium undergoes cyclic changes during the menstrual cycle.'
+Clinical: '<img src="paste-132202285c7853d7ad7c773906211f44c3a5f296.jpg"><br>The most common vaginal infection in women of reproductive age is bacterial vaginosis (BA), which leads to painful inflammation and gray or white vaginal discharge. Although etiology is not known, it is probably caused by overgrowth of facultative and anaerobic bacteria in the vaginal lumen. Serious complications during pregnancy are  miscarriage, early (preterm) delivery, and pelvic infection after childbirth.'
+Comment: '<img src="paste-17310d6c22be08d4d93966dbebc98c522b6ce98d.jpg"><br>Comment: The external genitalia, or vulva, are the labia majora and minora, clitoris, and vestibular glands. The vagina and urethra open into the vestibule. The vagina is a distensible fibromuscular tube that connects the cervix of the uterus to the body exterior. The vaginal lumen is lined by stratified squamous nonkeratinized epithelium, 150 to 200 um thick, which lacks glands. Surface cells of the epithelium appear washed out due to variable amounts of glycogen. As in many other parts of the female reproductive tract, this epithelium undergoes cyclic changes during the menstrual cycle.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::18_Female_Reproductive::External_Genitalia_and_Vagina'
 

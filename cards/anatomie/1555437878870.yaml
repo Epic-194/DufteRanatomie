@@ -6,8 +6,8 @@ noteid: '1555437878870'
 Title: 'Iris'
 
 OccludedImage: '<img src="paste-0cf986f4f3e5799f2939972f772bdcf9952bc609.jpg">'
-Clinical: 'There are many forms of <b>uveitis</b>—an inflammation of the uvea—that may lead to <b>red eye</b>, pain, and decreased vision. <b>Anterior uveitis</b> (or <b>iritis</b>), the most common form, usually occurs in healthy people. It may also be associated with <b>autoimmune diseases</b> and may be due to <b>viral</b> and <b>bacterial infection</b>, or <b>parasitic infestation</b>, such as <b>toxoplasmosis</b>.'
-Comment: '<b>Comment:</b> The iris is the most anterior part of the uvea and separates anterior and posterior chambers. It is a circular diaphragm, 10 mm to 12 mm in diameter. It regulates the amount of light reaching the retina by adjusting the size of its central aperture—the pupil. A double layer of pigmented cuboidal epithelium covers the posterior surface, whereas a discontinuous layer of stromal cells—a mixture of fibroblasts and pigment-containing melanocytes—is on the anterior surface. In the stroma near the pupillary margin is the constrictor pupillae muscle consisting of a flat ring of circumferential smooth muscle. Myoepithelial cells of the inner layer of the posterior epithelium constitute the dilator pupillae.'
+Clinical: '<img src="paste-4ce48c951cf67fb92f0e2695ad9f659c15b07b4b.jpg"><br>There are many forms of uveitis—an inflammation of the uvea—that may lead to red eye, pain, and decreased vision. Anterior uveitis (or iritis), the most common form, usually occurs in healthy people. It may also be associated with autoimmune diseases and may be due to viral and bacterial infection, or parasitic infestation, such as toxoplasmosis.'
+Comment: '<img src="paste-f1a735a6b47588d77f2aa0edf480baa2f1839cc1.jpg"><br>Comment: The iris is the most anterior part of the uvea and separates anterior and posterior chambers. It is a circular diaphragm, 10 mm to 12 mm in diameter. It regulates the amount of light reaching the retina by adjusting the size of its central aperture—the pupil. A double layer of pigmented cuboidal epithelium covers the posterior surface, whereas a discontinuous layer of stromal cells—a mixture of fibroblasts and pigment-containing melanocytes—is on the anterior surface. In the stroma near the pupillary margin is the constrictor pupillae muscle consisting of a flat ring of circumferential smooth muscle. Myoepithelial cells of the inner layer of the posterior epithelium constitute the dilator pupillae.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::19_Eye_and_Adnexa::Iris'
 

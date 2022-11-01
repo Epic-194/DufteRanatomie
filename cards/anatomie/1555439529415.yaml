@@ -6,8 +6,8 @@ noteid: '1555439529415'
 Title: 'Retinal Pigment Epithelium'
 
 OccludedImage: '<img src="paste-6e4ea01d596dfd6e3bb2da4cedeac1a860a0c4b8.jpg">'
-Clinical: '<b>Retinitis pigmentosa</b> comprises a group of genetic diseases that lead to progressive <b>visual loss</b>. Among the many different forms, 1 subtype leads to photoreceptor cell death in response to genetic alteration in rhodopsin, accompanied by structural changes in retinal pigment epithelial cells. Patients experience tunnel vision and loss of visual acuity and color discrimination.'
-Comment: '<b>Comment:</b> Retinal pigment epithelium (RPE) is derived from neuroectoderm of the outer layer of the embryonic optic cup and consists of a single layer of melanin-rich cuboidal cells. Separated from the choroid by Bruch’s membrane, RPE cells are between the choroid and outer tips of photoreceptors. Because the outer layer of the retina lacks blood vessels, oxygen and nutrients from fenestrated capillaries in the choroid must diffuse across the RPE for metabolic needs of photoreceptor cells. RPE cells have features of ion- transporting epithelium and also contribute to the blood-retinal barrier. Melanin granules in RPE cells respond to light by migrating toward the tips of photoreceptors to protect them from excessive light and increase visual discrimination.'
+Clinical: '<img src="paste-adc5fd281df6b95826741d3023408ca8503b534e.jpg"><br>Retinitis pigmentosa comprises a group of genetic diseases that lead to progressive visual loss. Among the many different forms, 1 subtype leads to photoreceptor cell death in response to genetic alteration in rhodopsin, accompanied by structural changes in retinal pigment epithelial cells. Patients experience tunnel vision and loss of visual acuity and color discrimination.'
+Comment: '<img src="paste-6bd16605f9294d25f8e4ddb8338dbb80e1c7d6ee.jpg"><br>Comment: Retinal pigment epithelium (RPE) is derived from neuroectoderm of the outer layer of the embryonic optic cup and consists of a single layer of melanin-rich cuboidal cells. Separated from the choroid by Bruch’s membrane, RPE cells are between the choroid and outer tips of photoreceptors. Because the outer layer of the retina lacks blood vessels, oxygen and nutrients from fenestrated capillaries in the choroid must diffuse across the RPE for metabolic needs of photoreceptor cells. RPE cells have features of ion- transporting epithelium and also contribute to the blood-retinal barrier. Melanin granules in RPE cells respond to light by migrating toward the tips of photoreceptors to protect them from excessive light and increase visual discrimination.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::19_Eye_and_Adnexa::Retinal_Pigment_Epithelium'
 

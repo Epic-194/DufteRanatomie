@@ -6,8 +6,8 @@ noteid: '1555439335355'
 Title: 'Retina'
 
 OccludedImage: '<img src="paste-a7b9aa978f5fd930e05afc345a038cf30b60f819.jpg">'
-Clinical: '<b>Retinal detachment</b> is a common cause of <b>blindness</b> whereby neural retina separates from retinal pigment epithelium. Retinal detachment may occur in <b>diabetic retinopathy</b> and intraocular <b>infection</b>. Laser treatment has greatly improved the prognosis for this condition.'
-Comment: '<b>Comment:</b> The retina is in the posterior segment of the eye. It is between the vascular choroid and vitreous body and has 2 parts derived embryonically from separate layers of the optic cup. The outer layer is the retinal pigment epithelium, which contains melanin- rich cuboidal cells. The inner stratified part is the neural retina, which contains several distinct layers: a layer of rods and cones, external limiting membrane, outer nuclear layer, outer plexiform layer, inner nuclear layer, inner plexiform layer, ganglion cell layer, nerve fiber layer, and internal limiting membrane. The retina receives blood supply from 2 separate, independent branches of the ophthalmic artery—ciliary and central arteries. A blood-retinal barrier, similar to the blood-brain barrier, is a tight permeability barrier in capillaries of the inner retina.'
+Clinical: '<img src="paste-d0443ffab84574d834cfca6465cd460ec48aa7a7.jpg"><br>Retinal detachment is a common cause of blindness whereby neural retina separates from retinal pigment epithelium. Retinal detachment may occur in diabetic retinopathy and intraocular infection. Laser treatment has greatly improved the prognosis for this condition.'
+Comment: '<img src="paste-1ea38cee702d97666bd350859414c776dfe8349d.jpg"><br>Comment: The retina is in the posterior segment of the eye. It is between the vascular choroid and vitreous body and has 2 parts derived embryonically from separate layers of the optic cup. The outer layer is the retinal pigment epithelium, which contains melanin- rich cuboidal cells. The inner stratified part is the neural retina, which contains several distinct layers: a layer of rods and cones, external limiting membrane, outer nuclear layer, outer plexiform layer, inner nuclear layer, inner plexiform layer, ganglion cell layer, nerve fiber layer, and internal limiting membrane. The retina receives blood supply from 2 separate, independent branches of the ophthalmic artery—ciliary and central arteries. A blood-retinal barrier, similar to the blood-brain barrier, is a tight permeability barrier in capillaries of the inner retina.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::19_Eye_and_Adnexa::Retina'
 

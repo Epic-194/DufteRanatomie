@@ -6,8 +6,8 @@ noteid: '1555439999990'
 Title: 'Cochlea'
 
 OccludedImage: '<img src="paste-e8556993b65b8c6e551a291416105f161e3403b0.jpg">'
-Clinical: '<b>Deafness</b> (hearing loss), a common condition often related to advancing age, takes 1 of 2 forms. <b>Conductive hearing loss</b> is due to a lesion in the external auditory canal or middle ear; <b>sensorineural hearing loss</b> is caused by a lesion in the cochlea or cochlear division of cranial nerve VIII.'
-Comment: '<b>Comment:</b> The cochlea resembles a snail shell. It is 30 mm to 35 mm long, forms 2¾ turns from base to apex, and has a lumen with 3 compartments: scala media, vestibuli, and tympani. The scala media (cochlear duct) - a triangular space in cross section - is filled with endolymph. Its lateral border makes up the stria vascularis, which secretes endolymph. The scala vestibuli and tympani are filled with perilymph and communicate through the helicotrema. The basilar membrane forms the floor of the scala media on which is superimposed a highly specialized epithelium - the organ of Corti - consisting of hair cells and supporting cells. Cochlear hair cells are specialized auditory receptor cells. Their bases synapse with nerve fibers of the cochlear part of cranial nerve VIII, whose cell bodies are in the spiral ganglion.'
+Clinical: '<img src="paste-9936fc25d4009dcaf7fd5c1a9baf2e9c0c114fc5.jpg"><br>Deafness (hearing loss), a common condition often related to advancing age, takes 1 of 2 forms. Conductive hearing loss is due to a lesion in the external auditory canal or middle ear; sensorineural hearing loss is caused by a lesion in the cochlea or cochlear division of cranial nerve VIII.'
+Comment: '<img src="paste-87cf103ec61769236c750be782b43a058a8b8d6a.jpg"><br>Comment: The cochlea resembles a snail shell. It is 30 mm to  35 mm long, forms 2% turns from base to apex, and has a lumen with 3 compartments: scala media, vestibuli, and tympani. The scala media (cochlear duct)—a triangular space in cross section—is filled with endolymph. Its lateral border makes up the stria vascularis, which secretes endolymph. The scala vestibuli and tympani are filled with perilymph and communicate through the helicotrema. The basilar membrane forms the floor of the scala media on which is superimposed a highly specialized epithelium—the organ of Corti— consisting of hair cells and supporting cells. Cochlear hair cells are specialized auditory receptor cells. Their bases synapse with nerve fibers of the cochlear part of cranial nerve VIII, whose cell bodies are in the spiral ganglion.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::20_Special_Senses::Cochlea'
 

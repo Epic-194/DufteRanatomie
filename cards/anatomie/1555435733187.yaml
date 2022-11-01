@@ -6,8 +6,8 @@ noteid: '1555435733187'
 Title: 'Testis and Seminiferous Tubule'
 
 OccludedImage: '<img src="paste-c4971688c582be7148d2151f75bb409f2eb206fc.jpg">'
-Clinical: '<b>Seminomas</b> are invasive <b>germ cell neoplasms</b> accounting for 95% of solid <b>testicular tumors</b> in men 15 to 35 years old. Although testicular tumors in children are rare, <b>cryptorchidism</b> (or undescended testes) predisposes boys to develop germ cell tumors.'
-Comment: '<b>Comment:</b> Each testis has about 600 to 1200 seminiferous tubules with a total length of 280 m to 400 m. In the mediastinum testis, they empty into tubuli recti and rete testes. The interstitial connective tissue constitutes 20% to 30% of the substance of the gland, and within it are clumps of Leydig (interstitial) cells, which produce testosterone—the hormone responsible for secondary male characteristics. The seminiferous epithelium is an unusual, complex stratified epithelium with 2 cell populations: spermatogenic (or germ) cells and Sertoli cells. Germ cells are in various stages of spermatogenesis and include spermatogonia, primary and secondary spermatocytes, spermatids, and spermatozoa, which are released into the lumen of the tubules.'
+Clinical: '<img src="paste-c2607cc4128afbb47eab49190fc3aafff256039d.jpg"><br>Seminomas are invasive germ cell neoplasms accounting for 95% of solid testicular tumors in men 15 to 35 years old. Although testicular tumors in children are rare, cryptorchidism (or undescended testes) predisposes boys to develop germ cell tumors.'
+Comment: '<img src="paste-a3e3d2ca6299a1f295ea8d72b9b5144f0d2dce3e.jpg"><br>Comment: Each testis has about 600 to 1200 seminiferous tubules with a total length of 280 m to 400 m. In the mediastinum testis, they empty into tubuli recti and rete testes. The interstitial connective tissue constitutes 20% to 30% of the substance of the gland, and within it are clumps of Leydig (interstitial) cells, which produce testosterone—the hormone responsible for secondary male characteristics. The seminiferous epithelium is an unusual, complex stratified epithelium with 2 cell populations: spermatogenic (or germ) cells and Sertoli cells. Germ cells are in various stages of spermatogenesis and include spermatogonia, primary and secondary spermatocytes, spermatids, and spermatozoa, which are released into the lumen of the tubules.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::17_Male_Reproductive::Testis_and_Seminiferous_Tubule'
 

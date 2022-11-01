@@ -6,8 +6,8 @@ noteid: '1555435622368'
 Title: 'Male Reproductive System'
 
 OccludedImage: '<img src="paste-9613b90396f3ecc00dd3dfad79ced47749bf2cd5.jpg">'
-Clinical: '<b>Male infertility</b> may be due to specific gene mutations that affect testicular development and spermatogenesis (whereby mature spermatozoa are produced and the number of chromosomes is reduced to the haploid state). <b>Klinefelter syndrome</b>—the most common abnormality in sexual development—includes dysgenesis of seminiferous tubules, <b>azoospermia</b>, and a 47XXY chromosomal <b>karyotype</b> due to chromosome nondisjunction.'
-Comment: '<b>Comment:</b> The male reproductive system comprises the paired testes, which are the primary sex organs, and several secondary sex organs consisting of excretory ducts and accessory glands (prostate, seminal vesicles, and bulbourethral glands). The testes, which reside outside the body cavity in the scrotum, contain small, convoluted seminiferous tubules whose germinal epithelium provides male germ cells known as spermatozoa. From the seminiferous tubules, spermatozoa travel a long, tortuous route in the rete testis, efferent ductules, epididymis, vas (ductus) deferens, ejaculatory duct, urethra, and penis.'
+Clinical: '<img src="paste-dc6793072d1d96adb15959345db0e6ad692077f5.jpg"><br>Male infertility may be due to specific gene mutations that affect testicular development and spermatogenesis (whereby mature spermatozoa are produced and the number of chromosomes is reduced to the haploid state). Klinefelter syndrome—the most common abnormality in sexual development—includes dysgenesis of seminiferous tubules, azoospermia, and a 47XXY chromosomal karyotype due to chromosome nondisjunction.'
+Comment: '<img src="paste-f1328279f5e5b9fdb053dca0cf460206d6f582c4.jpg"><br>Comment: The male reproductive system comprises the paired testes, which are the primary sex organs, and several secondary sex organs consisting of excretory ducts and accessory glands (prostate, seminal vesicles, and bulbourethral glands). The testes, which reside outside the body cavity in the scrotum, contain small, convoluted seminiferous tubules whose germinal epithelium provides male germ cells known as spermatozoa. From the seminiferous tubules, spermatozoa travel a long, tortuous route in the rete testis, efferent ductules, epididymis, vas (ductus) deferens, ejaculatory duct, urethra, and penis.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::17_Male_Reproductive::Male_Reproductive_System'
 

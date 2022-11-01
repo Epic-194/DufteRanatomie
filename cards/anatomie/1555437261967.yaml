@@ -6,8 +6,8 @@ noteid: '1555437261967'
 Title: 'Uterine Cervix'
 
 OccludedImage: '<img src="paste-b459cbb41a44d4758a1a394facc5b382f57e781b.jpg">'
-Clinical: '<b>Cervical cancer</b>—the second most common cancer in women—is the leading cause of cancer-related death in underdeveloped countries. Most <b>cervical carcinomas</b> develop at the squamo- columnar junction of the transformation zone, where metaplastic transformation of the epithelium may occur. A routine cytologic screening test—the <b>Papanicolaou (Pap) smear</b>—has markedly reduced the incidence of cervical cancer deaths.'
-Comment: '<b>Comment:</b> The inferior, tapering end of the uterus is the cervix. The upper part—the cervical canal—is lined by mucous membrane known as endocervix. The lower part—the portio vaginalis—is lined by exocervix, which is continuous with the vaginal mucosa. The cervical canal, lined by simple columnar epithelium, is usually filled with mucus secreted by highly branched glands. Occlusion of the glands may form dilated Nabothian cysts. The exocervix is lined by stratified squamous nonkeratinized epithelium devoid of glands. An abrupt squamocolumnar junction—the transformation zone—is just above the external os of the cervix.'
+Clinical: '<img src="paste-be46e5397b8e50c1d4ce3971be22c5ba3ae0292c.jpg"><br>Cervical cancer—the second most common cancer in women—is the leading cause of cancer-related death in underdeveloped countries. Most cervical carcinomas develop at the squamo- columnar junction of the transformation zone, where metaplastic transformation of the epithelium may occur. A routine cytologic screening test—the Papanicolaou (Pap) smear—has markedly reduced the incidence of cervical cancer deaths.'
+Comment: '<img src="paste-40fc5a2966b0fbe9f2b0977a58f1e6b47c9cbbc6.jpg"><br>Comment: The inferior, tapering end of the uterus is the cervix. The upper part—the cervical canal—is lined by mucous membrane known as endocervix. The lower part—the portio vaginalis—is lined by exocervix, which is continuous with the vaginal mucosa. The cervical canal, lined by simple columnar epithelium, is usually filled with mucus secreted by highly branched glands. Occlusion of the glands may form dilated Nabothian cysts. The exocervix is lined by stratified squamous nonkeratinized epithelium devoid of glands. An abrupt squamocolumnar junction—the transformation zone—is just above the external os of the cervix.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::18_Female_Reproductive::Uterine_Cervix'
 

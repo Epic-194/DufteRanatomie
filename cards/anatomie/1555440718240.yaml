@@ -6,8 +6,8 @@ noteid: '1555440718240'
 Title: 'Muscle and Joint Receptors'
 
 OccludedImage: '<img src="paste-baea14bcc96b8e7579bbb932f16df323b7834bac.jpg">'
-Clinical: 'Since muscle spindles and Golgi tendon organs are the main proprioceptors of joints, tendons, and skeletal muscles, the physiotherapeutic protocol known as <b>proprioceptive training</b> is effective in rehabilitation of knee and ankle injuries. Benefits include enhancement of joint position sense, postural stability, and muscle tone, and prevention of injuries to ligaments in joints.'
-Comment: '<b>Comment:</b> Muscle spindles and Golgi tendon organs provide afferent feedback to the central nervous system from muscles and tendons, respectively. Whereas muscle spindles are encapsulated proprioceptors monitoring stretch in skeletal muscles, tendon organs are encapsulated, slowly adapting mechanoreceptors that sense tension in tendons. Each Golgi tendon organ is innervated by a single myelinated (1b) nerve fiber that penetrates a multilayered capsule and branches into unmyelinated sensory nerve terminals close to encapsulated collagen fiber bundles. Pressure exerted onto the capsule and collagen deforms sensory nerve terminals and stimulates them to generate action potentials.'
+Clinical: '<img src="paste-7e47cb2ebee4a29dfcd0f13f467403189b2a92ea.jpg"><br>Since muscle spindles and Golgi tendon organs are the main proprioceptors of joints, tendons, and skeletal muscles, the physiotherapeutic protocol known as proprioceptive training is effective in rehabilitation of knee and ankle injuries. Benefits include enhancement of joint position sense, postural stability, and muscle tone, and prevention of injuries to ligaments in joints.'
+Comment: '<img src="paste-97d1253376d32867cc8a55a714bda1c1c3c2b271.jpg"><br>Comment: Muscle spindles and Golgi tendon organs provide afferent feedback to the central nervous system from muscles and tendons, respectively. Whereas muscle spindles are encapsulated proprioceptors monitoring stretch in skeletal muscles, tendon organs are encapsulated, slowly adapting mechanoreceptors that sense tension in tendons. Each Golgi tendon organ is innervated by a single myelinated (1b) nerve fiber that penetrates a multilayered capsule and branches into unmyelinated sensory nerve terminals close to encapsulated collagen fiber bundles. Pressure exerted onto the capsule and collagen deforms sensory nerve terminals and stimulates them to generate action potentials.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::20_Special_Senses::Muscle_and_Joint_Receptors'
 

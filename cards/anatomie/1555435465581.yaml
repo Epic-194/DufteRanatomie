@@ -6,8 +6,8 @@ noteid: '1555435465581'
 Title: 'Urinary Bladder'
 
 OccludedImage: '<img src="paste-a1ff837fc032d7cbaa840bc337f36952c8ed459a.jpg">'
-Clinical: '<b>Urinary incontinence</b> is common in the elderly and is more prevalent in women than in men. It is involuntary loss of bladder control and voiding of urine. Many <b>neurologic disorders</b> and <b>systemic diseases</b> may cause it, <b>urinary tract infection</b> being a common one. Drugs may also interfere with normal function.'
-Comment: '<b>Comment:</b> Like the ureters, the urinary bladder follows a common histologic plan with walls made of 4 concentric layers: mucosa, lamina propria 3 layers of smooth muscle in the muscularis externa, and adventitia (or serosa). The mucosa consists of transitional epithelium (urothelium) whose appearance varies according to degree of distention. The urothelium is a tight permeability barrier due to luminal tight junctions, making the epithelium and underlying tissues impermeable to urine. The bladder has a capacity of about 500 cc, and temporarily stores urine prior to micturition. Although most of the bladder is covered externally by adventitia, part of its superior surface is covered by serosa of peritoneum.'
+Clinical: '<img src="paste-32b5989f534887450e6bfd397783c2a2fb69f955.jpg"><br>Urinary incontinence is common in the elderly and is more prevalent in women than in men. It is involuntary loss of bladder control and voiding of urine. Many neurologic disorders and systemic diseases may cause it, urinary tract infection being a common one. Drugs may also interfere with normal function.'
+Comment: '<img src="paste-4abb2d2121ff7415cc07423461ddb90071a54d87.jpg"><br>Comment: Like the ureters, the urinary bladder follows a common histologic plan with walls made of 4 concentric layers: mucosa, lamina propria 3 layers of smooth muscle in the muscularis externa, and adventitia (or serosa). The mucosa consists of transitional epithelium (urothelium) whose appearance varies according to degree of distention. The urothelium is a tight permeability barrier due to luminal tight junctions, making the epithelium and underlying tissues impermeable to urine. The bladder has a capacity of about 500 cc, and temporarily stores urine prior to micturition. Although most of the bladder is covered externally by adventitia, part of its superior surface is covered by serosa of peritoneum.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::16_Urinary::Urinary_Bladder'
 

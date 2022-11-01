@@ -6,8 +6,8 @@ noteid: '1555435810789'
 Title: 'Spermatozoa'
 
 OccludedImage: '<img src="paste-738a3513a8f88cdc359a4f34370ca2fdad507a09.jpg">'
-Clinical: '<b>Semen analysis</b>—an assay of spermatozoa and seminal fluid—helps determine reproductive status and <b>fertility</b> in men. Important parameters are concentration, morphology and motility of spermatozoa, and detection of antisperm antibodies or nonspermatozoidal cells. Normal values include an ejaculate volume of 2 ml or more, sperm density greater than 20 million/ml, and greater than 50% spermatozoa with forward progression.'
-Comment: '<b>Comment:</b> Spermatogenesis takes 64 to 74 days and occurs in the seminiferous epithelium. It produces spermatozoa—highly specialized, mature germ cells that are 60 μm long. Each spermatozoon with a single flagellum and a small, condensed, conical nucleus is typically divided into 5 distinct regions. The head piece contains the nucleus and acrosome, and a centriole pair occupies the neck piece. A middle piece contains helically arranged mitochondria, and the last 2 regions—principal and end pieces— have the axoneme made of a 9 + 2 bundle of microtubules. After puberty, about 500 million spermatozoa are produced daily.'
+Clinical: '<img src="paste-cb0b5f1ebaf377f48481808a63bc9610563b3077.jpg"><br>Semen analysis—an assay of spermatozoa and seminal fluid—helps determine reproductive status and fertility in men. Important parameters are concentration, morphology and motility of spermatozoa, and detection of antisperm antibodies or nonspermatozoidal cells. Normal values include an ejaculate volume of 2 ml or more, sperm density greater than 20 million/ml, and greater than 50% spermatozoa with forward progression.'
+Comment: '<img src="paste-d9dea768f41a20126979aaa2634f0a76351b39c7.jpg"><br>Comment: Spermatogenesis takes 64 to 74 days and occurs in the seminiferous epithelium. It produces spermatozoa—highly specialized, mature germ cells that are 60 um long. Each spermatozoon with a single flagellum and a small, condensed, conical nucleus is typically divided into 5 distinct regions. The head piece contains the nucleus and acrosome, and a centriole pair occupies the neck piece. A middle piece contains helically arranged mitochondria, and the last 2 regions—principal and end pieces— have the axoneme made of a 9 + 2 bundle of microtubules. After puberty, about 500 million spermatozoa are produced daily.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::17_Male_Reproductive::Spermatozoa'
 
