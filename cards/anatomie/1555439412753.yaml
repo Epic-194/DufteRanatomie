@@ -6,8 +6,8 @@ noteid: '1555439412753'
 Title: 'Photoreceptors'
 
 OccludedImage: '<img src="paste-963a8c85244ae4231200f5c2934876175d042cb3.jpg">'
-Clinical: '<img src="paste-00d3cd4573f002d392870572981f1907c911e2e5.jpg"><br>Retinoblastoma, the most common intraocular malignancy in infants and children, is so named because most cells in the tumor resemble undifferentiated embryonic retinal cells called retinoblasts. Early detection and subsequent treatment by surgery or chemotherapy provide favorable results,'
-Comment: '<img src="paste-53c953cf0bf10fce87ec20968104a321bfac3a3a.jpg"><br>Comment: The neural retina contains 3 sets of modified neurons (photoreceptors, bipolar cells, and ganglion cells) that are linked in series by synapses. Photoreceptors (rods and cones) are polarized sensory cells oriented parallel to each other. Outer segments of both rods and cones are modified cilia and are characterized by many parallel stacks of membranous discs, which contain visual pigments that absorb light and trigger the visual response. The discs are flattened, bilaminar, transverse saccules of plasma membrane, about 1 um in diameter, that are enclosed by an extension of this membrane. The inner segments of photoreceptors have many organelles such as ribosomes for protein synthesis and mitochondria to produce adenosine triphosphate (ATP) for energy.'
+Clinical: '<b>Retinoblastoma</b>, the most common intraocular <b>malignancy</b> in infants and children, is so named because most cells in the <b>tumor</b> resemble undifferentiated embryonic retinal cells called retinoblasts. Early detection and subsequent treatment by <b>surgery</b> or <b>chemotherapy</b> provide favorable results,'
+Comment: '<b>Comment:</b> The neural retina contains 3 sets of modified neurons (photoreceptors, bipolar cells, and ganglion cells) that are linked in series by synapses. Photoreceptors (rods and cones) are polarized sensory cells oriented parallel to each other. Outer segments of both rods and cones are modified cilia and are characterized by many parallel stacks of membranous discs, which contain visual pigments that absorb light and trigger the visual response. The discs are flattened, bilaminar, transverse saccules of plasma membrane, about 1 μm in diameter, that are enclosed by an extension of this membrane. The inner segments of photoreceptors have many organelles such as ribosomes for protein synthesis and mitochondria to produce adenosine triphosphate (ATP) for energy.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::19_Eye_and_Adnexa::Photoreceptors'
 

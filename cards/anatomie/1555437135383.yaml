@@ -6,8 +6,8 @@ noteid: '1555437135383'
 Title: 'Uterus'
 
 OccludedImage: '<img src="paste-42de67e2979d0d7477e3e76ae28dfbabec06b8de.jpg">'
-Clinical: '<img src="paste-bed151f0b5b8beadd13475f64c0fa0e63897bcb6.jpg"><br>Benign tumors of the uterus that arise from localized hyperplasia of the myometrium are leiomyomas, commonly called fibroids. They are the most common tumor in the female pelvis, most likely as a result of endocrine imbalance. A common symptom is prolonged bleeding at menstruation. Treatment options include hormone therapy, uterine artery embolization, and surgical removal of the fibroid or the entire uterus (hysterectomy).'
-Comment: '<img src="paste-edcb6afe86476e058e35e896e2e52e4e23478693.jpg"><br>Comment: The uterus is a hollow pear-shaped organ in the pelvis between the urinary bladder and rectum. Anatomically it has 3 parts: the dome-shaped fundus, an expanded part called the corpus (or body), and the narrowest part—the cervix—which opens into the vagina. Histologically, the uterine wall consists of 3 layers. The innermost endometrium is specialized mucosa consisting of simple columnar epithelium, which undergoes marked histologic changes during the menstrual cycle. The myometrium is the thickest part and consists mostly of smooth muscle. The outer perimetrium is mainly connective tissue.'
+Clinical: '<b>Benign tumors</b> of the uterus that arise from localized hyperplasia of the myometrium are <b>leiomyomas</b>, commonly called <b>fibroids</b>. They are the most common tumor in the female pelvis, most likely as a result of endocrine imbalance. A common symptom is prolonged bleeding at menstruation. Treatment options include hormone therapy, uterine artery embolization, and surgical removal of the fibroid or the entire uterus <b>(hysterectomy)</b>.'
+Comment: '<b>Comment:</b> The uterus is a hollow pear-shaped organ in the pelvis between the urinary bladder and rectum. Anatomically it has 3 parts: the dome-shaped fundus, an expanded part called the corpus (or body), and the narrowest part—the cervix—which opens into the vagina. Histologically, the uterine wall consists of 3 layers. The innermost endometrium is specialized mucosa consisting of simple columnar epithelium, which undergoes marked histologic changes during the menstrual cycle. The myometrium is the thickest part and consists mostly of smooth muscle. The outer perimetrium is mainly connective tissue.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::18_Female_Reproductive::Uterus'
 

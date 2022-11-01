@@ -6,8 +6,8 @@ noteid: '1555437508040'
 Title: 'Umbilical Cord'
 
 OccludedImage: '<img src="paste-0f1d345199fa2410bb4e5a7aa66f81576806397f.jpg">'
-Clinical: '<img src="paste-e334f86620fb8cad1ff653463bfb3f1c005a7c00.jpg"><br>Umbilical cord blood stem cell transplants are a potent resource for transplant therapies. The cells may be collected from the umbilical cord at birth before the placenta is discarded. These cells  are less prone to rejection than bone marrow stem cells.'
-Comment: '<img src="paste-89bd3c67c4637fdae0e30174b969b569035b62d0.jpg"><br>Comment: The umbilical cord—about 55 cm long at term— connects the fetus to the placenta. It is covered externally by a single layer of cuboidal epithelium, which is derived from the lining of the amniotic cavity and is known as amniotic epithelium. This epithelium secretes amniotic fluid and also serves a protective role. Within the cord, 2 umbilical arteries and a single umbilical vein are coiled around each other in a matrix of embryonic mucous connective tissue known as Wharton’s jelly. The umbilical vein delivers oxygenated blood to the fetus, whereas umbilical arteries carry deoxygenated blood from the fetus to the chorion. Umbilical arteries have thinner walls than typical adult arteries, and umbilical veins have a thick layer of circular smooth muscle but lack valves.'
+Clinical: 'Umbilical cord <b>blood stem cell transplants</b> are a potent resource for transplant therapies. The cells may be collected from the umbilical cord at birth before the placenta is discarded. These cells  are less prone to rejection than bone marrow stem cells.'
+Comment: '<b>Comment:</b> The umbilical cord—about 55 cm long at term— connects the fetus to the placenta. It is covered externally by a single layer of cuboidal epithelium, which is derived from the lining of the amniotic cavity and is known as amniotic epithelium. This epithelium secretes amniotic fluid and also serves a protective role. Within the cord, 2 umbilical arteries and a single umbilical vein are coiled around each other in a matrix of embryonic mucous connective tissue known as Wharton’s jelly. The umbilical vein delivers oxygenated blood to the fetus, whereas umbilical arteries carry deoxygenated blood from the fetus to the chorion. Umbilical arteries have thinner walls than typical adult arteries, and umbilical veins have a thick layer of circular smooth muscle but lack valves.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::18_Female_Reproductive::Umbilical_Cord'
 

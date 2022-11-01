@@ -6,8 +6,8 @@ noteid: '1555439604456'
 Title: 'Eyelid'
 
 OccludedImage: '<img src="paste-90e611da5bc7755d0ca519aa59226dfd420188af.jpg">'
-Clinical: '<img src="paste-d655b73f7b6ba47e06b7fa23b4b5e157623db19d.jpg"><br>Conjunctivitis, an inflammation of the bulbar and palpebral conjunctiva, may be caused by bacterial and viral infection, and allergic responses. Obstruction and subsequent infection of Meibomian glands in the eyelid form a hard nodular swelling under the palpebral conjunctiva called a chalazion.'
-Comment: '<img src="paste-057b73c7958e117bc8461854ea2e44bd85571ae8.jpg"><br>Comment: The eyelids are movable folds of skin that cover the eyeballs anteriorly, help keep them moist, and protect them for physical injury and excessive light. Thin skin covers the outer surface, a transparent mucous membrane—the palpebral conjunctiva—internally. Stratified squamous keratinized epithelium covers the skin surface, and the conjunctiva is lined by stratified columnar epithelium, about 2 or 3 cells thick. Dense connective tissue of the tarsal plate provides support and rigidity to the center of each eyelid. The orbicularis oculi is skeletal muscle that closes the eyelid. Large Meibomian sebaceous glands discharge an oily secretion onto the free outer lid margin and prevent tears from evaporating. The palpebral conjunctiva is continuous with the bulbar conjunctiva, which reflects over the front of the eyeball.'
+Clinical: '<b>Conjunctivitis</b>, an inflammation of the bulbar and palpebral conjunctiva, may be caused by <b>bacterial</b> and <b>viral infection</b>, and <b>allergic responses</b>. Obstruction and subsequent infection of Meibomian glands in the eyelid form a hard nodular swelling under the palpebral conjunctiva called a <b>chalazion</b>.'
+Comment: '<b>Comment:</b> The eyelids are movable folds of skin that cover the eyeballs anteriorly, help keep them moist, and protect them for physical injury and excessive light. Thin skin covers the outer surface, a transparent mucous membrane—the palpebral conjunctiva—internally. Stratified squamous keratinized epithelium covers the skin surface, and the conjunctiva is lined by stratified columnar epithelium, about 2 or 3 cells thick. Dense connective tissue of the tarsal plate provides support and rigidity to the center of each eyelid. The orbicularis oculi is skeletal muscle that closes the eyelid. Large Meibomian sebaceous glands discharge an oily secretion onto the free outer lid margin and prevent tears from evaporating. The palpebral conjunctiva is continuous with the bulbar conjunctiva, which reflects over the front of the eyeball.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::19_Eye_and_Adnexa::Eyelid'
 

@@ -6,8 +6,8 @@ noteid: '1555440393259'
 Title: 'Merkel Cells'
 
 OccludedImage: '<img src="paste-78f7fefef5bead7b88abadd990f78e8b67a47f1e.jpg">'
-Clinical: '<img src="paste-fb50d5f631dd0657283406737e3b706ca4a5e845.jpg"><br>Merkel cell carcinomas, a rare, aggressive form of skin cancer, usually occur in the head and neck, and often affect the elderly. Sun exposure is a risk factor, and these tumors have a tendency to recur locally and metastasize. Chromosomal abnormalities, similar to those seen in neuroblastoma and melanoma tumors, are also associated with Merkel cell tumors.'
-Comment: '<img src="paste-61d21c2b1306f3b34c93e0583b3dbfc5589b15e2.jpg"><br>Comment: Merkel cells are neural crest-derived cells found in glabrous and hairy skin, as well as some mucous membranes. They express various substances such as neuron-specific proteins and cytokeratin 20. Merkel cells are not seen by usual histologic methods and require special stains (e.g., immunocytochemistry) or electron microscopy. Merkel cell-neurite complexes—slowly adapting touch receptors—consist of enlarged terminal endings of afferent nerve fibers, which form synaptic contacts with Merkel cells that have distinctive dense core vesicles. Merkel cells respond to punctate pressure and bending of hairs and transform mechanical signals into action potentials in the nerve terminals.'
+Clinical: '<b>Merkel cell carcinomas</b>, a rare, aggressive form of <b>skin cancer</b>, usually occur in the head and neck, and often affect the elderly. Sun exposure is a risk factor, and these tumors have a tendency to recur locally and <b>metastasize</b>. Chromosomal abnormalities, similar to those seen in <b>neuroblastoma</b> and <b>melanoma tumors</b>, are also associated with Merkel cell tumors.'
+Comment: '<b>Comment:</b> Merkel cells are neural crest-derived cells found in glabrous and hairy skin, as well as some mucous membranes. They express various substances such as neuron-specific proteins and cytokeratin 20. Merkel cells are not seen by usual histologic methods and require special stains (e.g., immunocytochemistry) or electron microscopy. Merkel cell-neurite complexes - slowly adapting touch receptors - consist of enlarged terminal endings of afferent nerve fibers, which form synaptic contacts with Merkel cells that have distinctive dense core vesicles. Merkel cells respond to punctate pressure and bending of hairs and transform mechanical signals into action potentials in the nerve terminals.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::20_Special_Senses::Merkel_Cells'
 

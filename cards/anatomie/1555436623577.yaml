@@ -6,8 +6,8 @@ noteid: '1555436623577'
 Title: 'Seminal Vesicle'
 
 OccludedImage: '<img src="paste-e64c8539acc909395b035045488187541a8eb21f.jpg">'
-Clinical: '<img src="paste-98f9f73b08f087ede319277435caca239751d6f5.jpg"><br>Transrectal ultrasonography can be used to assess abnormalities of the seminal vesicles. Although seminal vesicle tumors are rare, they may arise from epithelium or stroma. Agenesis or congenital aplasia of seminal vesicles leads to low serum fructose and low ejaculate volume.'
-Comment: '<img src="paste-a516b820fcea4a6dc49cb13ad2aa121ac804436e.jpg"><br>Comment: Semen is composed of spermatozoa formed in the testis and seminal fluid, the bulk (70%) of which is secreted by the seminal vesicles. Derived embryonically from mesonephric ducts, the paired seminal vesicles are coiled, sacculated tubular glands situated retroperitoneally at the base of the urinary bladder. Each vesicle can hold 2 to 2.5 ml of seminal fluid and has an elaborately folded mucosa that resembles a honeycomb. The lumen contains eosinophilic coagulated material thought to be stored secretion. Fructose is the main secretory product, in addition to water, K+ ions, and prostaglandins. The epithelium, like that elsewhere in the reproductive tract, is androgen-dependent pseudostratified epithelium with basal cells and columnar cells. Underlying lamina propria is rich in elastic fibers. Smooth muscle deeper in the wall contracts during ejaculation and semen emission.'
+Clinical: '<b>Transrectal ultrasonography</b> can be used to assess abnormalities of the seminal vesicles. Although <b>seminal vesicle tumors</b> are rare, they may arise from epithelium or stroma. <b>Agenesis</b> or <b>congenital aplasia</b> of seminal vesicles leads to low serum fructose and low ejaculate volume.'
+Comment: '<b>Comment:</b> Semen is composed of spermatozoa formed in the testis and seminal fluid, the bulk (70%) of which is secreted by the seminal vesicles. Derived embryonically from mesonephric ducts, the paired seminal vesicles are coiled, sacculated tubular glands situated retroperitoneally at the base of the urinary bladder. Each vesicle can hold 2 to 2.5 ml of seminal fluid and has an elaborately folded mucosa that resembles a honeycomb. The lumen contains eosinophilic coagulated material thought to be stored secretion. Fructose is the main secretory product, in addition to water, K+ ions, and prostaglandins. The epithelium, like that elsewhere in the reproductive tract, is androgen-dependent pseudostratified epithelium with basal cells and columnar cells. Underlying lamina propria is rich in elastic fibers. Smooth muscle deeper in the wall contracts during ejaculation and semen emission.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::17_Male_Reproductive::Seminal_Vesicle'
 

@@ -6,8 +6,8 @@ noteid: '1555437715240'
 Title: 'Eyeball'
 
 OccludedImage: '<img src="paste-84fcb92d834d5a27fff016fd4169e6f44a389053.jpg">'
-Clinical: '<img src="paste-7ba27f4a53fd73365f828d9f19055ef3c5aca3bb.jpg"><br>The cornea, lens, and ocular axial length determine focusing ability of the eye. Ametropias are ocular refractive disorders that interfere with proper focusing of light rays on the macular part of the retina. Myopia, or nearsightedness, is the most common type of ametropia. Treatment options are spectacles and contact lenses or laser surgery and corneal transplantation.'
-Comment: '<img src="paste-104407625151ad7b8d1c620d46c160bcab0bc0a8.jpg"><br>Comment: Eyes are roughly spherical and are about 2.5 cm in diameter. They are photoreceptor organs that communicate with the brain via the optic nerve. The wall has 3 concentric coats: an outer sclera and cornea, a middle vascular coat (or uvea), and an innermost retina. Three interior ocular chambers are the small anterior and posterior chambers containing aqueous humor, and the main chamber—the vitreous body—containing a transparent semisolid gel. The choroid, ciliary body, and iris comprise the uvea. The double-layered retina has neural and nonneural regions, and the site of sharpest visual acuity in the neural retina is the fovea centralis of the macula lutea.'
+Clinical: 'The cornea, lens, and ocular axial length determine focusing ability of the eye. <b>Ametropias</b> are ocular refractive disorders that interfere with proper focusing of light rays on the macular part of the retina. <b>Myopia</b>, or <b>nearsightedness</b>, is the most common type of ametropia. Treatment options are spectacles and contact lenses or <b>laser surgery</b> and <b>corneal transplantation</b>.'
+Comment: '<b>Comment:</b> Eyes are roughly spherical and are about 2.5 cm in diameter. They are photoreceptor organs that communicate with the brain via the optic nerve. The wall has 3 concentric coats: an outer sclera and cornea, a middle vascular coat (or uvea), and an innermost retina. Three interior ocular chambers are the small anterior and posterior chambers containing aqueous humor, and the main chamber—the vitreous body—containing a transparent semisolid gel. The choroid, ciliary body, and iris comprise the uvea. The double-layered retina has neural and nonneural regions, and the site of sharpest visual acuity in the neural retina is the fovea centralis of the macula lutea.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::19_Eye_and_Adnexa::Eyeball'
 

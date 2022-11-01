@@ -6,8 +6,8 @@ noteid: '1555439672474'
 Title: 'Lacrimal Gland'
 
 OccludedImage: '<img src="paste-7f90a597f40bb1d0179fc4947e8781ac2aedc8a9.jpg">'
-Clinical: '<img src="paste-2ffe238e571c3cb2cfc828594993a00f0eddef68.jpg"><br>An alteration in the composition of tears or their inadequate production leads to dry eye syndrome, a common condition. It may cause eye irritation, sensitivity to light, and blurred vision. It is often associated with advanced age, menopause in women, and side effects of certain medications. Severe dry eye occurs in patients with Sjogren syndrome, a chronic multiorgan autoimmune disease.'
-Comment: '<img src="paste-9890941422ad36a7aaeda1e77d0bf79a2a3b6c75.jpg"><br>Comment: The paired lacrimal glands are almond shaped, tubulo- acinar exocrine glands that produce tears. They consist of 2 parts— palpebral and orbital—and drain via 10 to 12 small ducts into the conjunctival sac. The lacrimal drainage apparatus consists of the conjunctival sac and nasolacrimal duct, which collect tears and drain them into the nasal cavity. Tears are produced by parenchymal cells of secretory acini, which are drained by small ducts that lie in a richly cellular connective tissue stroma. Tears moisten and lubricate the anterior cornea, and protect against bacterial infection. Secretion of tears is stimulated by parasympathetic fibers of the facial nerve (cranial nerve VII).'
+Clinical: 'An alteration in the composition of tears or their inadequate production leads to <b>dry eye syndrome</b>, a common condition. It may cause eye irritation, sensitivity to light, and blurred vision. It is often associated with advanced age, menopause in women, and side effects of certain medications. Severe <b>dry eye</b> occurs in patients with <b>Sjögren syndrome</b>, a chronic multiorgan <b>autoimmune disease</b>.'
+Comment: '<b>Comment:</b> The paired lacrimal glands are almond shaped, tubulo- acinar exocrine glands that produce tears. They consist of 2 parts— palpebral and orbital—and drain via 10 to 12 small ducts into the conjunctival sac. The lacrimal drainage apparatus consists of the conjunctival sac and nasolacrimal duct, which collect tears and drain them into the nasal cavity. Tears are produced by parenchymal cells of secretory acini, which are drained by small ducts that lie in a richly cellular connective tissue stroma. Tears moisten and lubricate the anterior cornea, and protect against bacterial infection. Secretion of tears is stimulated by parasympathetic fibers of the facial nerve (cranial nerve VII).'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::19_Eye_and_Adnexa::Lacrimal_Gland'
 

@@ -6,8 +6,8 @@ noteid: '1555438032068'
 Title: 'Ciliary Body'
 
 OccludedImage: '<img src="paste-8f26ff790989eabc2f30719bc313feb36c6451fb.jpg">'
-Clinical: '<img src="paste-e3b0a63c00468052b191e921fd72b335a7ed8a58.jpg"><br>Although neoplasms of the eye are rare, uveal melanoma is the most common intraocular malignant tumor in adults. It may arise from the ciliary body, iris, or choroid. It differs from cutaneous  melanoma since it is not related to sun exposure, although lightly  pigmented people are at risk of getting it. Early detection and treatment with radiation may improve survival.'
-Comment: '<img src="paste-5c902eb0a573d3d1017c4d4ae96f6fb4c967cb26.jpg"><br>Comment: The ciliary body is a wedge-shaped fibromuscular ring that functions in accommodation and production of aqueous humor. It is a specialized part of the anterior uvea, and its inner surface has 70 to 80 radiating folds, or ciliary processes, covered by a double cuboidal ciliary epithelium. The outer layer is heavily pigmented, and its cells contain melanin. The inner layer is a nonpigmented ion- transporting epithelium, which modifies plasma filtrate that is then secreted into the posterior chamber as aqueous humor. Deep in the ciliary body is the ciliary muscle, which consists of 3 groups of smooth muscle cells oriented in different directions. The muscle contracts in accommodation.'
+Clinical: 'Although <b>neoplasms</b> of the eye are rare, <b>uveal melanoma</b> is the most common intraocular <b>malignant tumor</b> in adults. It may arise from the ciliary body, iris, or choroid. It differs from <b>cutaneous  melanoma</b> since it is not related to sun exposure, although lightly  pigmented people are at risk of getting it. Early detection and treatment with <b>radiation</b> may improve survival.'
+Comment: '<b>Comment:</b> The ciliary body is a wedge-shaped fibromuscular ring that functions in accommodation and production of aqueous humor. It is a specialized part of the anterior uvea, and its inner surface has 70 to 80 radiating folds, or ciliary processes, covered by a double cuboidal ciliary epithelium. The outer layer is heavily pigmented, and its cells contain melanin. The inner layer is a nonpigmented ion- transporting epithelium, which modifies plasma filtrate that is then secreted into the posterior chamber as aqueous humor. Deep in the ciliary body is the ciliary muscle, which consists of 3 groups of smooth muscle cells oriented in different directions. The muscle contracts in accommodation.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::19_Eye_and_Adnexa::Ciliary_Body'
 

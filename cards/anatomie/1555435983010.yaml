@@ -6,8 +6,8 @@ noteid: '1555435983010'
 Title: 'Epididymis'
 
 OccludedImage: '<img src="paste-fcfcb75d82cda2c0dd42b56a142c6a5f48d990fc.jpg">'
-Clinical: '<img src="paste-0d8fb7569d4642243ddda1e61ad3f15eea1e4bdf.jpg"><br>Epididymitis—an inflammation of the epididymis—is frequently caused by bacterial infection. In young males it usually arises as a complication of gonorrhea or as a sexually acquired infection with Chlamydia. Acute epididymitis may be caused by retrograde passage of infected urine from the prostatic urethra via the ejaculatory ducts and vas (ductus) deferens. In severe cases, bilateral epididymitis can lead to male infertility.'
-Comment: '<img src="paste-affafc6b48d98fcf53a737a9e4b620ef1377665b.jpg"><br>Comment: The epididymis—on the posterior part of each testis— is composed of a tightly packed tortuous duct about 400 um in diameter and 6 m long. It has 3 parts: an initial (head) segment, a body, and a caudal (tail) region. The head receives efferent ductules and is engaged mainly in absorption of fluid and particulate matter. The wall of the epididymis is a very high pseudostratified epithelium consisting of basal (stem) cells and tall columnar (principal) cells with long apical stereocilia. Loose connective tissue and some circularly arranged smooth muscle are found outside the ducts.'
+Clinical: '<b>Epididymitis</b>—an inflammation of the epididymis—is frequently caused by <b>bacterial infection</b>. In young males it usually arises as a complication of gonorrhea or as a sexually acquired infection with Chlamydia. <b>Acute epididymitis</b> may be caused by retrograde passage of infected urine from the prostatic urethra via the ejaculatory ducts and vas (ductus) deferens. In severe cases, bilateral epididymitis can lead to <b>male infertility</b>.'
+Comment: '<b>Comment:</b> The epididymis—on the posterior part of each testis— is composed of a tightly packed tortuous duct about 400 μm in diameter and 6 m long. It has 3 parts: an initial (head) segment, a body, and a caudal (tail) region. The head receives efferent ductules and is engaged mainly in absorption of fluid and particulate matter. The wall of the epididymis is a very high pseudostratified epithelium consisting of basal (stem) cells and tall columnar (principal) cells with long apical stereocilia. Loose connective tissue and some circularly arranged smooth muscle are found outside the ducts.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::17_Male_Reproductive::Epididymis'
 

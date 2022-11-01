@@ -6,8 +6,8 @@ noteid: '1555440547472'
 Title: 'Carotid Body and Sinus'
 
 OccludedImage: '<img src="paste-2d2336a92f71f91da28f056774fa801e1f8dedd3.jpg">'
-Clinical: '<img src="paste-7aa6a9f16436f7b5303e4e922af0829b734e2b5f.jpg"><br>The carotid bodies normally undergo involution with advancing age, characterized by reduction in the number of glomus cells. On the other hand, people who become acclimatized to high altitude have  enlarged carotid bodies due to hyperplasia of glomus cells in response to hyperbaric hypoxia.'
-Comment: '<img src="paste-d89d100907db4c7702268ae8265f9242b0e40b1e.jpg"><br>Comment: Carotid bodies are encapsulated lenticular structures found at the bifurcation of the common carotid artery. They contain chemoreceptors that respond to changes in pH, O2, and CO, in arterial blood. Each carotid body contains groups of chemoreceptor cells close to sinusoidal capillaries. Type II (Sheath) cells surround clusters of type | (glomus) cells. Glomus cells are regarded as paraneurons, which store various substances, such as serotonin and enkephalins, in dense core vesicles. Dendrites of afferent nerve fibers of cranial nerve IX synapse with glomus cells. Acetylcholine and dopamine are neurotransmitters. The carotid sinus, a dilated part of the internal carotid artery, contains free and encapsulated nerve endings that are sensitive to stretch.'
+Clinical: 'The carotid bodies normally undergo <b>involution</b> with advancing age, characterized by reduction in the number of glomus cells. On the other hand, people who become acclimatized to high altitude have  enlarged carotid bodies due to <b>hyperplasia</b> of glomus cells in response to <b>hyperbaric hypoxia</b>.'
+Comment: '<b>Comment:</b> Carotid bodies are encapsulated lenticular structures found at the bifurcation of the common carotid artery. They contain chemoreceptors that respond to changes in pH, O<sub>2</sub>, and CO<sub>2</sub>, in arterial blood. Each carotid body contains groups of chemoreceptor cells close to sinusoidal capillaries. Type II (Sheath) cells surround clusters of type | (glomus) cells. Glomus cells are regarded as paraneurons, which store various substances, such as serotonin and enkephalins, in dense core vesicles. Dendrites of afferent nerve fibers of cranial nerve IX synapse with glomus cells. Acetylcholine and dopamine are neurotransmitters. The carotid sinus, a dilated part of the internal carotid artery, contains free and encapsulated nerve endings that are sensitive to stretch.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::20_Special_Senses::Carotid_Body_and_Sinus'
 

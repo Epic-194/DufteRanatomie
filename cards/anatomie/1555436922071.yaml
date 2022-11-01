@@ -6,8 +6,8 @@ noteid: '1555436922071'
 Title: 'Ovarian Follicles'
 
 OccludedImage: '<img src="paste-4a5eadd5b014e6f5135dce4ff961460ce319a244.jpg">'
-Clinical: '<img src="paste-fd20f386b44ea38fefba27fac0628ce298967271.jpg"><br>Polycystic ovarian syndrome (PCOS)—characterized by enlarged ovaries with multiple small cysts—interferes with ovulation, hormonal balance, and menstruation. It affects many women of reproductive  age and may lead to sterility.'
-Comment: '<img src="paste-e4fad221f4ee3cf501ee78b7541109580b7c6092.jpg"><br>Comment: Ovaries hold about 400,000 primary oocytes, which develop from oogonia. By puberty, about 40,000 oocytes remain after degeneration or atresia. Follicles in the cortex may be resting or primordial, maturing (primary and secondary follicles), or mature (Graafian). After puberty, about 20 primordial follicles become activated monthly during menstrual cycles, and usually 1 of them becomes dominant to become a primary follicle. This follicle has an oocyte and surrounding, concentrically arranged follicular (or granulosa) cells. Both oocyte and granulosa cells then synthesize an extracellular zona pellucida. Enlargement of the follicle leads to a secondary follicle, which subsequently contains fluid-filled spaces that coalesce to form a follicular antrum. Outermost theca cells produce the steroid androstenoid from which granulosa cells produce estrogens.'
+Clinical: '<b>Polycystic ovarian syndrome (PCOS)</b>—characterized by enlarged ovaries with multiple small cysts—interferes with ovulation, hormonal balance, and menstruation. It affects many women of reproductive  age and may lead to <b>sterility</b>.'
+Comment: '<b>Comment:</b> Ovaries hold about 400,000 primary oocytes, which develop from oogonia. By puberty, about 40,000 oocytes remain after degeneration or atresia. Follicles in the cortex may be resting or primordial, maturing (primary and secondary follicles), or mature (Graafian). After puberty, about 20 primordial follicles become activated monthly during menstrual cycles, and usually 1 of them becomes dominant to become a primary follicle. This follicle has an oocyte and surrounding, concentrically arranged follicular (or granulosa) cells. Both oocyte and granulosa cells then synthesize an extracellular zona pellucida. Enlargement of the follicle leads to a secondary follicle, which subsequently contains fluid-filled spaces that coalesce to form a follicular antrum. Outermost theca cells produce the steroid androstenoid from which granulosa cells produce estrogens.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,6 +37,5 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS,'
-- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::18_Female_Reproductive::Ovarian_Follicles'
 
